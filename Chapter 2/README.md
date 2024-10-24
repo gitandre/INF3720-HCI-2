@@ -1,8 +1,20 @@
 ### Chapter 2: The Process of Interaction Design 🔄
 
-#### 2.1 Introduction 📸
-#### 2.2 What Is Involved in Interaction Design? 💡🖊️
-#### 2.3 Some Practical Issues 🔍⚙️
+**2.1 Introduction**
+   
+ **2.2 What Is Involved in Interaction Design?**
+   - 2.2.1 Who to Involve in the Design Process
+   - 2.2.2 The Importance of Involving Users
+   - 2.2.3 Degrees of User Involvement
+   - 2.2.4 What Is a People-Centered Approach?
+   - 2.2.5 Four Basic Activities of Interaction Design
+   - 2.2.6 A Simple Lifecycle Model for Interaction Design
+
+**2.3 Some Practical Issues**
+   - 2.3.1 How to Find Out What People Need
+   - 2.3.2 How to Decide What to Design
+   - 2.3.3 How to Generate Alternative Designs
+   - 2.3.4 How to Choose Among Alternative Designs
 
 ---
 
@@ -50,8 +62,6 @@
 - **Maarten Houben et al. (2020)**: Conducted workshops involving diverse stakeholders for designing an interactive sound cushion, emphasizing user and stakeholder input.
 - **Design Council (2019)**: "No idea is ever ‘finished’ in an ever-changing and digital world."
 
----
-
 ### Four Approaches to Interaction Design by Dan Saffer (2010) 📚✨
 
 1. **User-Centered Design (UCD)** 👥🎯
@@ -78,14 +88,101 @@
 **Key Insight**:
 - Different design problems call for different approaches. Designers often gravitate towards the method that best suits them or the specific problem they are addressing.
 
----
+
+#### 2.2.1 Who to Involve in the Design Process 🤝🔄
+
+**Key Takeaways**:
+- **Stakeholders Defined**: Stakeholders are individuals or groups that can influence or be influenced by the success or failure of a product. This includes **users, customers, developers, executives, regulators**, and **people affected by the product** (Freeman, 1984).
+
+- **Identifying Stakeholders**: Stakeholder groups are broader than just users; they include everyone from customers who pay for the product to regulators who set rules for it. Questions like **"Who is interested in the project?"** and **"Who is affected by its introduction?"** help identify key stakeholders.
+
+- **Example - Self-driving Delivery Trucks** 🚚🤖: 
+  - **Primary Stakeholders**: Truck drivers, their families, developers of software and hardware, and the companies that use these trucks. Each group has different stakes, ranging from **job safety** to **successful delivery**.
+  - **Indirect Stakeholders**: Government regulators, pedestrians, other vehicle manufacturers, and individuals interested in carbon emissions reduction.
+
+- **Challenges in Engagement**: Not all stakeholders need to be actively involved, but knowing who they are helps in determining the level of involvement. Identifying diverse stakeholders, like in the case of **smartphone users** who fit 382 different user types (Sha Zhao et al., 2016), is more complex than it seems.
+
+- **Practical Difficulties**:
+  - Engaging stakeholders can be challenging, especially in large projects. For instance, **Seaborn et al. (2020)** found it difficult to involve residents in an urban food waste project despite trying several strategies, ultimately opting to **observe existing waste habits** as an engagement method.
+
+**Summary**:
+Stakeholder analysis is critical in interaction design as it helps determine who has a stake in the product's success. Stakeholders can range from **direct users** to those affected by a product indirectly, and their involvement should be planned carefully. However, engaging these stakeholders can be challenging, especially when trying to reach diverse user types or a wider community.
 
 
-### Research in the Wild (RITW) 🌳🔍
+#### 2.2.2 The Importance of Involving Users 🧑‍🤝‍🧑💡
+
+- **User Involvement**: Involving users during all stages of product development ensures that the final product is usable and meets user needs effectively.
+- **Role of Product Owner**: The product owner helps filter user input, but involving users directly gives a more comprehensive understanding.
+- **Expectation Management**: Including users early on helps manage expectations, reducing resistance or rejection by giving them realistic previews of the product.
+- **Sense of Ownership**: Early user involvement fosters a sense of ownership, increasing acceptance and support for the product.
+- **Optimal Involvement**: User involvement is beneficial, but it needs to be planned carefully regarding when, how, and in what capacity users should contribute.
+
+#### 2.2.3 Degree of User Involvement 🔄👥
+
+- **Various Degrees**: User involvement can vary from full-time engagement throughout the development to targeted, specific contributions. Involvement can be small-scale (face-to-face) or large-scale (online crowdsourcing).
+- **Participation Methods**: Techniques like crowdsourcing and citizen engagement enable many people to contribute to product development, enhancing design quality, satisfaction, and a sense of ownership.
+- **Participatory Design**: Users and stakeholders are central participants in the design process rather than passive receivers, often referred to as co-design or co-creative design.
+- **Practical Considerations**: The degree of user involvement depends on project circumstances, such as whether the product is for a specific company or the open market.
+- **Feedback After Release**: After a product is released, ongoing user feedback can be gathered through customer reviews, data analysis, and error reporting systems, which is valuable for continuous improvement.
+
+#### 2.2.4 What Is a People-Centered Approach? 👥🌍
+
+- **Foundational Principles (Gould & Lewis, 1985)**:
+  1. **Early Focus on Users and Tasks**: Understand users by studying their characteristics and observing them during tasks.
+  2. **Empirical Measurement**: Observe and measure user reactions to prototypes and designs.
+  3. **Iterative Design**: Address problems identified during user testing through repeated design, testing, and improvements.
+
+- **Extended People-Centered Principles**:
+  - **User Tasks Drive Development**: Technology is secondary to supporting user goals.
+  - **Understand Behavior & Context**: Design systems based on how people perform tasks.
+  - **Accommodate User Characteristics**: Account for cognitive and physical limitations (e.g., color blindness).
+  - **Ongoing User Consultation**: Involve users throughout the entire development process.
+  - **Contextual Design Decisions**: Make design choices with users' activities and environments in mind.
+
+- **Additional Design Elements**:
+  - **Clear Usability Goals**: Document and agree on specific goals to guide evaluation.
+  - **Iteration**: Design evolves through continuous feedback, reflecting the need for repeated refinement.
+
+#### 2.2.5 Four Basic Activities of Interaction Design 🔄✨
+
+1. **Discovering Requirements**: Understand the needs of target users through data gathering and analysis, forming the basis for product requirements.
+
+2. **Designing Alternatives**: Create multiple design ideas, including conceptual (high-level functionality) and concrete (specific details like color and layout) designs to meet identified requirements.
+
+3. **Prototyping**: Build prototypes to represent different aspects of the design for user interaction. Prototypes can be physical, paper-based, or digital to help users experience and evaluate the product.
+
+4. **Evaluating**: Assess usability and user experience through testing, ensuring the product is both functional and meets user expectations. This evaluation helps refine designs and inform future iterations.
+
+These activities are interconnected and iterative, continuously refining the design through feedback.
+
+
+#### 2.2.6 A Simple Lifecycle Model for Interaction Design
+
+**Lifecycle Models**:
+- **A Simple Lifecycle Model** 🚀:
+  - **Discovering Requirements**: Understanding the target users and identifying how the product can be useful.
+  - **Designing Alternatives**: Conceptual and concrete design steps to generate multiple alternatives.
+  - **Prototyping**: Creating prototypes for usability testing.
+  - **Evaluating**: Assessing prototypes to refine the final product.
+
+![simple_interaction_design_lifecycle_model](../img/simple_interaction_design_lifecycle_model.png)
+
+#### Design Sprint Phases 🏃‍♂️💨
+
+- **Pre-sprint (Planning) 📝**: Write a brief, choose the challenge, assemble the team, and set up time & space.
+- **Phase 1 (Understand) 🧠**: Articulate the problem space with input from experts.
+- **Phase 2 (Define) 🎯**: Focus on what you learned to identify the sprint's main goal.
+- **Phase 3 (Sketch) ✏️**: Generate ideas and sketch solutions; each team member develops one.
+- **Phase 4 (Decide) ✅**: Pick the best idea to move forward.
+- **Phase 5 (Prototype) 🛠️**: Build a simple prototype to test your idea.
+- **Phase 6 (Validate) 📊**: Gather user feedback and validate (or invalidate) the solution.
+
+![6 phases of design sprint](../img/six_phases_of_design_sprint.png)
+
+#### Research in the Wild (RITW) 🌳🔍
 
 **What is RITW?**:
 - **Developing Tech in Real Life** 🛠️🌍: RITW develops tech solutions by creating and testing them in everyday settings. Researchers experiment with new tech possibilities that can change behaviors.
-
 
 Developed by **Rogers and Marshall (2017)**: 
 
@@ -100,9 +197,35 @@ Developed by **Rogers and Marshall (2017)**:
 - **Challenge Assumptions** 🤔⚡: Observe how people react to and integrate tech in their lives, challenging assumptions about human behavior and informing new HCI theories.
 
 ![RITW](../img/ritw.png)
+
 ---
 
 #### 2.3 Some Practical Issues 🔍⚙️
+
+##### 2.3.1 How to Find Out What People Need 🤔✨
+
+- **Unspoken Needs**: People often cannot articulate what they need as they might not be aware of possibilities ("un-dreamed-of" needs).
+- **Explore the Problem Space**:
+  - Investigate users, their context, and activities.
+  - Identify areas for improvement rather than asking users directly.
+- **Mixed Approach**:
+  - Combine exploration, testing ideas, and gathering feedback to decide what to build.
+- **User Feedback**:
+  - Use **rapid design sprints** and **in-the-wild studies** to gather authentic feedback early on.
+  - These methods can provide surprising and valuable insights into real user needs.
+- **Focus on Goals**:
+  - Prioritize **user goals**, **usability goals**, and **user experience goals** rather than relying solely on user-stated requirements. 
+- **Real-World Example**:
+  - IDEO, a design company, uses community engagement and explores human needs to innovate and create impactful designs.
+
+##### 2.3.2 How to Decide What to Design
+
+##### 2.3.3 How to Generate Alternative Designs
+
+##### 2.3.4 How to Choose Among Alternative Designs
+
+#### 2.3.5 How to integrate interaction design activities with other lifecycle models
+
 
 **Key Practical Issues to Address**:
 - **How to find out what people need** 🗣️: Asking people may not always provide accurate insights since they may not know what is possible or needed.
@@ -113,29 +236,9 @@ Developed by **Rogers and Marshall (2017)**:
 - **Degrees of User Involvement** 👥: User involvement can range from fully engaged throughout all iterations to targeted participation in specific activities. Full-time involvement can yield deeper insights but risks detachment from the community.
 - **People-Centered Approach** 🌍: Building on the early principles by **John Gould and Clayton Lewis (1985)**, user-centered design has evolved to involve more stakeholders throughout the entire process.
 
-**Lifecycle Models**:
-- **A Simple Lifecycle Model** 🚀:
-  - **Discovering Requirements**: Understanding the target users and identifying how the product can be useful.
-  - **Designing Alternatives**: Conceptual and concrete design steps to generate multiple alternatives.
-  - **Prototyping**: Creating prototypes for usability testing.
-  - **Evaluating**: Assessing prototypes to refine the final product.
 
-![simple_interaction_design_lifecycle_model](../img/simple_interaction_design_lifecycle_model.png)
 
 ---
-
-### Design Sprint Phases 🏃‍♂️💨
-
-- **Pre-sprint (Planning) 📝**: Write a brief, choose the challenge, assemble the team, and set up time & space.
-- **Phase 1 (Understand) 🧠**: Articulate the problem space with input from experts.
-- **Phase 2 (Define) 🎯**: Focus on what you learned to identify the sprint's main goal.
-- **Phase 3 (Sketch) ✏️**: Generate ideas and sketch solutions; each team member develops one.
-- **Phase 4 (Decide) ✅**: Pick the best idea to move forward.
-- **Phase 5 (Prototype) 🛠️**: Build a simple prototype to test your idea.
-- **Phase 6 (Validate) 📊**: Gather user feedback and validate (or invalidate) the solution.
-
-![6 phases of design sprint](../img/six_phases_of_design_sprint.png)
-
 
 **Key Attributions**:
 - **Uli Abelein et al. (2013)**: Found that user involvement generally has a positive effect on user satisfaction and system use, though results vary based on involvement levels.
