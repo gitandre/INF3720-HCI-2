@@ -218,14 +218,72 @@ Developed by **Rogers and Marshall (2017)**:
 - **Real-World Example**:
   - IDEO, a design company, uses community engagement and explores human needs to innovate and create impactful designs.
 
-##### 2.3.2 How to Decide What to Design
+##### 2.3.2 How to Decide What to Design 🎯🛠️
 
-##### 2.3.3 How to Generate Alternative Designs
+- **Explore the Problem Space**:
+  - Understanding the problem space is crucial before jumping into designing solutions.
+  - Avoid starting with the physical interface or specific technologies too early.
+  - Misunderstanding user needs, context, or missing usability goals can occur when diving into technical design without proper exploration.
 
+- **Importance of User Context**:
+  - Understand **current user experiences**, identify why changes are needed, and determine how these changes will improve user experience.
+  - Example: Augmented reality navigation systems have evolved from years of research into usability and safety for drivers.
+
+- **Team Effort**:
+  - Defining the problem space should be a **collaborative process**.
+  - Different team members (e.g., project managers vs. software engineers) will have unique perspectives—considering all perspectives is important to avoid incorrect assumptions.
+
+- **Benefits of Thorough Exploration**:
+  - Prevents incorrect assumptions that could lead to an unusable or unwanted design.
+  - Encourages more options and possibilities to be considered.
+  - Results in a solution that is well-supported by an understanding of both user needs and the business case.
+
+- **Justification of Design Choices**:
+  - Designers need to be able to clearly explain and justify their design choices.
+  - Articulating the rationale in both **business** and **design terms** is increasingly valued in design fields.
+  
+
+##### 2.3.3 How to Generate Alternative Designs 💡✨
+
+- **Avoid Settling for "Good Enough"**:
+  - Relying on an initial solution may prevent discovering better alternatives.
+  - Exploring different solutions is essential for good design.
+
+- **Sources of Alternative Ideas**:
+  - **Individual Creativity**: Some designers generate inspired designs based on personal creativity.
+  - **Cross-Fertilization**: Sharing ideas in multidisciplinary teams or stakeholder workshops helps generate new designs.
+  - **Evolution of Products**: Improvements come through observation and cross-domain influences (e.g., from cell phones to smartphones).
+
+- **Techniques for Generating Ideas**:
+  - **Creativity Prompts**: Browsing collections of designs or using prompts like **SCAMPER** can inspire fresh ideas.
+  - **Creativity Cards**: Various ideation cards exist to prompt new ideas and can be useful for co-design workshops.
+
+- **The Value of Diverse Perspectives**:
+  - Different sources of inspiration (competitors’ products, existing systems, unrelated domains) can provide valuable insights.
+  - Considering different perspectives enriches the design process and can lead to more creative outcomes.
+
+- **Constraints in Alternative Design**:
+  - Sometimes constraints limit available alternatives (e.g., adhering to a brand's look and feel).
+  - Design decisions often need to balance keeping familiar elements versus exploring new conceptual models.
+
+- **Legal Considerations**:
+  - **Copyright and Patent Laws**:
+    - Ideas are not copyrighted, but their **expression** is.
+    - **Patents** protect the idea itself, e.g., Amazon’s one-click purchase.
+  - **Creative Commons and Open Source**: Offer more flexible use of designs, supporting collaboration without infringing on copyrights or patents.
+
+- **Dilemma of Copying for Inspiration**:
+  - Designers need to understand the legal boundaries of using others' work for inspiration.
+  - Creative commons and open-source communities help facilitate legal, collaborative use of designs.
+  - 
 ##### 2.3.4 How to Choose Among Alternative Designs
 
 #### 2.3.5 How to integrate interaction design activities with other lifecycle models
 
+
+
+
+---
 
 **Key Practical Issues to Address**:
 - **How to find out what people need** 🗣️: Asking people may not always provide accurate insights since they may not know what is possible or needed.
@@ -235,8 +293,6 @@ Developed by **Rogers and Marshall (2017)**:
 **User Involvement**:
 - **Degrees of User Involvement** 👥: User involvement can range from fully engaged throughout all iterations to targeted participation in specific activities. Full-time involvement can yield deeper insights but risks detachment from the community.
 - **People-Centered Approach** 🌍: Building on the early principles by **John Gould and Clayton Lewis (1985)**, user-centered design has evolved to involve more stakeholders throughout the entire process.
-
-
 
 ---
 
