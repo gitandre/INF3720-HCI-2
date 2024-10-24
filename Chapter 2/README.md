@@ -121,6 +121,7 @@ Stakeholder analysis is critical in interaction design as it helps determine who
 
 - **Uli Abelein et al. (2013)**: Found that user involvement generally has a positive effect on user satisfaction and system use, though results vary based on involvement levels.
 
+![impact_of_huma_design_centered_workshops.png](../img/impact_of_huma_design_centered_workshops.png)
 
 #### 2.2.3 Degree of User Involvement 🔄👥
 
