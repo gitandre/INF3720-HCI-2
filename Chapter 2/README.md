@@ -34,6 +34,8 @@
   - **Develop** 🔧: Creating and co-designing different responses, drawing on inspirations.
   - **Deliver** 📦: Testing solutions at a small scale, rejecting or evolving based on outcomes.
 
+![Double Diamond Framework](../img/double_diamond.png)
+
 **Four Design Principles**:
 1. **Be People-Centered** 👥
 2. **Communicate (Visually & Inclusively)** 🗣️🎨
@@ -67,6 +69,9 @@
   - **Designing Alternatives**: Conceptual and concrete design steps to generate multiple alternatives.
   - **Prototyping**: Creating prototypes for usability testing.
   - **Evaluating**: Assessing prototypes to refine the final product.
+
+
+![simple_interaction_design_lifecycle_model](../img/simple_interaction_design_lifecycle_model.png)
 
 **Key Attributions**:
 - **Uli Abelein et al. (2013)**: Found that user involvement generally has a positive effect on user satisfaction and system use, though results vary based on involvement levels.
