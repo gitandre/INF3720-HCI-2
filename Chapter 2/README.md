@@ -50,6 +50,37 @@
 - **Maarten Houben et al. (2020)**: Conducted workshops involving diverse stakeholders for designing an interactive sound cushion, emphasizing user and stakeholder input.
 - **Design Council (2019)**: "No idea is ever ‘finished’ in an ever-changing and digital world."
 
+---
+
+### Four Approaches to Interaction Design by Dan Saffer (2010) 📚✨
+
+1. **User-Centered Design (UCD)** 👥🎯
+   - **Focus**: The **user knows best**. Designers translate users' needs and goals into a design solution.
+   - **Role of User**: Users guide the design.
+   - **Citation**: *(Dan Saffer, 2010)*
+
+2. **Activity-Centered Design (ACD)** 🔄⚙️
+   - **Focus**: Centered on the **behavior** surrounding tasks. The user’s behavior, not their goals, is key.
+   - **Role of User**: Users are significant, but behavior is prioritized.
+   - **Citation**: *(Dan Saffer, 2010)*
+
+3. **Systems Design** 🌐🛠️
+   - **Focus**: A **structured and holistic approach** that emphasizes the **system**—people, computers, objects, and devices.
+   - **Role of User**: Users set the system’s goals, while the design focuses on how the entire system interacts.
+   - **Citation**: *(Dan Saffer, 2010)*
+
+4. **Genius Design** 🎨💡
+   - **Focus**: Relies on the **designer’s creativity and experience**. Users do not participate in the design but help validate the outcomes.
+   - **Term by Jim Leftwich**: Also known as "**Rapid Expert Design**" (Dan Saffer, 2010, pp. 44–45).
+   - **Role of User**: Users validate the designer’s ideas.
+   - **Citation**: *(Dan Saffer, 2010)*
+
+**Key Insight**:
+- Different design problems call for different approaches. Designers often gravitate towards the method that best suits them or the specific problem they are addressing.
+
+---
+
+
 ### Research in the Wild (RITW) 🌳🔍
 
 **What is RITW?**:
