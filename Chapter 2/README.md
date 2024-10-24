@@ -50,6 +50,22 @@
 - **Maarten Houben et al. (2020)**: Conducted workshops involving diverse stakeholders for designing an interactive sound cushion, emphasizing user and stakeholder input.
 - **Design Council (2019)**: "No idea is ever ‘finished’ in an ever-changing and digital world."
 
+### Research in the Wild (RITW) 🌳🔍
+
+**What is RITW?**:
+- **Developing Tech in Real Life** 🛠️🌍: RITW develops tech solutions by creating and testing them in everyday settings. Researchers experiment with new tech possibilities that can change behaviors.
+
+**Key Elements of RITW**:
+
+- **Technology** 💻🔌: Use or adapt existing devices like **IoT toolkits** or develop new ones (e.g., a **public display**).
+- **Design** 🎨🔄: Design interactive experiences, like **travel planning tools** or an **AR game**.
+- **In Situ Study** 🏠🧪: Test tools or prototypes in real-life settings (e.g., someone's home) to see how they are used over time.
+- **Theory** 📚💡: Investigate ideas about **behavior**, **settings**, or **phenomena**—either existing or new.
+
+**Goal**:
+- **Challenge Assumptions** 🤔⚡: Observe how people react to and integrate tech in their lives, challenging assumptions about human behavior and informing new HCI theories.
+
+![RITW](../img/ritw.png)
 ---
 
 #### 2.3 Some Practical Issues 🔍⚙️
@@ -70,8 +86,22 @@
   - **Prototyping**: Creating prototypes for usability testing.
   - **Evaluating**: Assessing prototypes to refine the final product.
 
-
 ![simple_interaction_design_lifecycle_model](../img/simple_interaction_design_lifecycle_model.png)
+
+---
+
+### Design Sprint Phases 🏃‍♂️💨
+
+- **Pre-sprint (Planning) 📝**: Write a brief, choose the challenge, assemble the team, and set up time & space.
+- **Phase 1 (Understand) 🧠**: Articulate the problem space with input from experts.
+- **Phase 2 (Define) 🎯**: Focus on what you learned to identify the sprint's main goal.
+- **Phase 3 (Sketch) ✏️**: Generate ideas and sketch solutions; each team member develops one.
+- **Phase 4 (Decide) ✅**: Pick the best idea to move forward.
+- **Phase 5 (Prototype) 🛠️**: Build a simple prototype to test your idea.
+- **Phase 6 (Validate) 📊**: Gather user feedback and validate (or invalidate) the solution.
+
+![6 phases of design sprint](../img/six_phases_of_design_sprint.png)
+
 
 **Key Attributions**:
 - **Uli Abelein et al. (2013)**: Found that user involvement generally has a positive effect on user satisfaction and system use, though results vary based on involvement levels.
