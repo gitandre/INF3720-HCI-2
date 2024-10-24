@@ -48,6 +48,8 @@
 
 ![Double Diamond Framework](../img/double_diamond.png)
 
+![double_diamond_2.png](../img/double_diamond_2.png)
+
 **Four Design Principles**:
 1. **Be People-Centered** 👥
 2. **Communicate (Visually & Inclusively)** 🗣️🎨
