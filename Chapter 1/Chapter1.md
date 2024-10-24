@@ -1,17 +1,17 @@
 
 ### Chapter 1: What is Interaction Design
 
-### 1.1 Introduction 📝
-### 1.2 Good and Poor Design 👍👎
-### 1.3 Switching to Digital 💻🔄
-### 1.4 What to Design 🎨
-### 1.5 What Is Interaction Design? 🤔✨
-### 1.6 People-Centered Design 👥❤️
-### 1.7 Understanding People 🧠👥
-### 1.8 Accessibility and Inclusiveness ♿🤲
-### 1.9 Usability and User Experience Goals 🎯😊
+#### 1.1 Introduction 📝
+#### 1.2 Good and Poor Design 👍👎
+#### 1.3 Switching to Digital 💻🔄
+#### 1.4 What to Design 🎨
+#### 1.5 What Is Interaction Design? 🤔✨
+#### 1.6 People-Centered Design 👥❤️
+#### 1.7 Understanding People 🧠👥
+#### 1.8 Accessibility and Inclusiveness ♿🤲
+#### 1.9 Usability and User Experience Goals 🎯😊
 
-
+---
 #### 1.1 Introduction 📝
 
 **Definitions**:
@@ -148,4 +148,3 @@ IxD serves as an overarching term that includes many of these approaches.
   - **User groups** 👥
 - 🎯 Identifying and specifying relevant **usability and user experience goals** can help lead to the design of good interactive products.
 - 📝 **Design principles**, such as **feedback** 🔔 and **simplicity** ✨, are useful heuristics for informing, analyzing, and evaluating aspects of an interactive product.
-
