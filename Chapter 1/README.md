@@ -73,6 +73,8 @@
   
 IxD serves as an overarching term that includes many of these approaches.
 
+![Figure 1.5](../img/figure1-5.png)
+
 ---
 
 #### 1.6 People-Centered Design 👥❤️
