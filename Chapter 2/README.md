@@ -55,6 +55,9 @@
 **What is RITW?**:
 - **Developing Tech in Real Life** 🛠️🌍: RITW develops tech solutions by creating and testing them in everyday settings. Researchers experiment with new tech possibilities that can change behaviors.
 
+
+Developed by **Rogers and Marshall (2017)**: 
+
 **Key Elements of RITW**:
 
 - **Technology** 💻🔌: Use or adapt existing devices like **IoT toolkits** or develop new ones (e.g., a **public display**).
