@@ -117,6 +117,9 @@ Stakeholder analysis is critical in interaction design as it helps determine who
 - **Sense of Ownership**: Early user involvement fosters a sense of ownership, increasing acceptance and support for the product.
 - **Optimal Involvement**: User involvement is beneficial, but it needs to be planned carefully regarding when, how, and in what capacity users should contribute.
 
+- **Uli Abelein et al. (2013)**: Found that user involvement generally has a positive effect on user satisfaction and system use, though results vary based on involvement levels.
+
+
 #### 2.2.3 Degree of User Involvement 🔄👥
 
 - **Various Degrees**: User involvement can vary from full-time engagement throughout the development to targeted, specific contributions. Involvement can be small-scale (face-to-face) or large-scale (online crowdsourcing).
@@ -218,6 +221,8 @@ Developed by **Rogers and Marshall (2017)**:
 - **Real-World Example**:
   - IDEO, a design company, uses community engagement and explores human needs to innovate and create impactful designs.
 
+- **Suzanne and James Robertson (2013)**: Coined the term **“un-dreamed-of needs”**, highlighting that people may not always be aware of their own future needs.
+
 ##### 2.3.2 How to Decide What to Design 🎯🛠️
 
 - **Explore the Problem Space**:
@@ -276,29 +281,74 @@ Developed by **Rogers and Marshall (2017)**:
   - Designers need to understand the legal boundaries of using others' work for inspiration.
   - Creative commons and open-source communities help facilitate legal, collaborative use of designs.
   - 
-##### 2.3.4 How to Choose Among Alternative Designs
+##### 2.3.4 How to Choose Among Alternative Designs 📊💡
 
-#### 2.3.5 How to integrate interaction design activities with other lifecycle models
+- **Design Decisions**:
+  - Choices range from interface elements (e.g., physical keyboard vs. touchscreen) to app features (e.g., auto-saving data).
+  - These decisions rely on user requirements, technical feasibility, and regulations (e.g., security, privacy).
+
+- **Categories of Decisions**:
+  - **Externally Visible Factors**: Features observable by users, like speed, quality, size.
+  - **Internal Characteristics**: Technical aspects like materials, friction, etc., which matter only if they impact external features.
+
+- **Stakeholder Interaction**:
+  - Choices between alternatives should involve stakeholder feedback, ensuring the product matches user expectations.
+  - Designs need to be in an understandable format for stakeholders, not in technical jargon.
+
+- **Use of Prototypes**:
+  - Prototypes are crucial for user evaluation and understanding technical feasibility.
+  - They help visualize user experience better than static documentation.
+
+- **A/B Testing**:
+  - **A/B Testing** involves deploying two different versions to see which users prefer, often used for websites or apps.
+  - Allows for large-scale user evaluations in authentic scenarios.
+
+- **Quality as a Basis**:
+  - Views on quality vary between stakeholders (e.g., ease of use vs. feature richness).
+  - Formal usability criteria can help make choices clearer.
+
+- **Usability Engineering**:
+  - Involves specifying measurable product performance criteria, documented in usability specifications.
+  - Useful in applications like health informatics to ensure user experience meets expectations.
+
+- **Dilemma in Defining Quality**:
+  - Different stakeholder groups may interpret terms like "realistic" differently.
+  - Formalizing usability criteria (e.g., effectiveness, efficiency) helps align expectations and decisions.
+
+- **Considerations for Success**:
+  - Balancing constraints and requirements is key; some alternatives might be limited by technology or consistency requirements.
+  - Prototyping and evaluation ensure that selected alternatives align with stakeholders' needs and usability standards.
 
 
+#### 2.3.5 How to integrate interaction design activities with other lifecycle models 🔄🔧
 
+- **Integration with Software Development**:
+  - Interaction design is influenced by multiple disciplines, including software development, each with its own lifecycle.
+  - Challenges exist in integrating design and development, particularly regarding communication during the transition from design to implementation.
 
----
+- **Agile Software Development**:
+  - Interaction design activities are increasingly integrated into agile software methodologies.
+  - Popular agile methods include **eXtreme Programming (XP)**, **Scrum**, and **Kanban**.
+  - **DSDM (Dynamic Systems Development Method)** is also part of the agile family due to adherence to the agile manifesto.
 
-**Key Practical Issues to Address**:
-- **How to find out what people need** 🗣️: Asking people may not always provide accurate insights since they may not know what is possible or needed.
-- **Generating Alternative Designs** 💡: Using prompts and other creativity tools can help inspire designers to come up with alternatives.
-- **Choosing Among Alternatives** 🔀: Making informed design decisions is crucial; each decision can impact the final product experience.
+- **Agile Manifesto**:
+  - Emphasizes **individuals and interactions** over processes.
+  - Prioritizes **working software** over documentation.
+  - Values **customer collaboration** over contract negotiations.
+  - Encourages **responding to change** over strictly following a plan.
 
-**User Involvement**:
-- **Degrees of User Involvement** 👥: User involvement can range from fully engaged throughout all iterations to targeted participation in specific activities. Full-time involvement can yield deeper insights but risks detachment from the community.
-- **People-Centered Approach** 🌍: Building on the early principles by **John Gould and Clayton Lewis (1985)**, user-centered design has evolved to involve more stakeholders throughout the entire process.
+- **Agile Principles and Interaction Design**:
+  - Agile incorporates **tight iterations**, frequent **feedback**, and **collaboration** with customers.
+  - For example, in **Scrum**, a working product is delivered at the end of each sprint (1-4 weeks).
+  - **XP** advocates for continuous customer involvement, ideally having a customer on-site with the development team.
 
----
+- **Integration Challenges**:
+  - Integrating interaction design into agile is not always straightforward; designer-developer communication often presents challenges.
+  - Collaboration, adaptability, and ensuring a balance between flexibility and structure are crucial for successful integration.
 
-**Key Attributions**:
-- **Uli Abelein et al. (2013)**: Found that user involvement generally has a positive effect on user satisfaction and system use, though results vary based on involvement levels.
-- **Suzanne and James Robertson (2013)**: Coined the term **“un-dreamed-of needs”**, highlighting that people may not always be aware of their own future needs.
+- **Practical Considerations**:
+  - Agile emphasizes **face-to-face communication**, **streamlined processes**, and focuses on **practice over process**.
+  - Many companies integrate agile with interaction design to enhance **user experience** and **business value**, though challenges persist.
 
 ---
 
