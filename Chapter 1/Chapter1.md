@@ -133,6 +133,7 @@ IxD serves as an overarching term that includes many of these approaches.
 - 🔄 **Consistency**: Ensures that similar actions have similar results across the system.
 - 🖲️ **Affordance**: Elements should suggest their use (e.g., buttons look clickable).
 
+---
 
 ### Summary
 
