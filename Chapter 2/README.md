@@ -1,4 +1,4 @@
-### Chapter 2: The Process of Interaction Design 🔄
+## Chapter 2: The Process of Interaction Design 🔄
 
 **2.1 Introduction**
    
@@ -18,7 +18,7 @@
 
 ---
 
-#### 2.1 Introduction 📸
+### 2.1 Introduction 📸
 
 **Key Objectives**:
 - Reflect on what interaction design involves.
@@ -37,7 +37,7 @@
 
 ---
 
-#### 2.2 What Is Involved in Interaction Design? 💡🖊️
+### 2.2 What Is Involved in Interaction Design? 💡🖊️
 
 **The Double Diamond of Design**: 
 - The **Design Council** of the UK created the **Double Diamond Model**:
@@ -62,7 +62,7 @@
 - **Maarten Houben et al. (2020)**: Conducted workshops involving diverse stakeholders for designing an interactive sound cushion, emphasizing user and stakeholder input.
 - **Design Council (2019)**: "No idea is ever ‘finished’ in an ever-changing and digital world."
 
-### Four Approaches to Interaction Design by Dan Saffer (2010) 📚✨
+#### Four Approaches to Interaction Design by Dan Saffer (2010) 📚✨
 
 1. **User-Centered Design (UCD)** 👥🎯
    - **Focus**: The **user knows best**. Designers translate users' needs and goals into a design solution.
@@ -203,9 +203,9 @@ Developed by **Rogers and Marshall (2017)**:
 
 ---
 
-#### 2.3 Some Practical Issues 🔍⚙️
+### 2.3 Some Practical Issues 🔍⚙️
 
-##### 2.3.1 How to Find Out What People Need 🤔✨
+#### 2.3.1 How to Find Out What People Need 🤔✨
 
 - **Unspoken Needs**: People often cannot articulate what they need as they might not be aware of possibilities ("un-dreamed-of" needs).
 - **Explore the Problem Space**:
@@ -223,7 +223,7 @@ Developed by **Rogers and Marshall (2017)**:
 
 - **Suzanne and James Robertson (2013)**: Coined the term **“un-dreamed-of needs”**, highlighting that people may not always be aware of their own future needs.
 
-##### 2.3.2 How to Decide What to Design 🎯🛠️
+#### 2.3.2 How to Decide What to Design 🎯🛠️
 
 - **Explore the Problem Space**:
   - Understanding the problem space is crucial before jumping into designing solutions.
@@ -248,7 +248,7 @@ Developed by **Rogers and Marshall (2017)**:
   - Articulating the rationale in both **business** and **design terms** is increasingly valued in design fields.
   
 
-##### 2.3.3 How to Generate Alternative Designs 💡✨
+#### 2.3.3 How to Generate Alternative Designs 💡✨
 
 - **Avoid Settling for "Good Enough"**:
   - Relying on an initial solution may prevent discovering better alternatives.
@@ -281,7 +281,7 @@ Developed by **Rogers and Marshall (2017)**:
   - Designers need to understand the legal boundaries of using others' work for inspiration.
   - Creative commons and open-source communities help facilitate legal, collaborative use of designs.
   - 
-##### 2.3.4 How to Choose Among Alternative Designs 📊💡
+#### 2.3.4 How to Choose Among Alternative Designs 📊💡
 
 - **Design Decisions**:
   - Choices range from interface elements (e.g., physical keyboard vs. touchscreen) to app features (e.g., auto-saving data).
