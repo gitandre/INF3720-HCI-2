@@ -300,3 +300,171 @@ Here’s a summarized and emojified version of Section 5.5 in list format:
 - **Heath & Luff (1992)**: Demonstrated how shared awareness helps controllers work in sync without direct communication.
 
 
+#### **5.5.3 Shareable Interfaces** 🤝🖥️✨
+
+**Key Points & Attributions**:
+
+- **Shareable Technologies for Collaboration** 🖼️🤲:
+  - **Whiteboards**, **large touchscreens**, and **multitouch tables** are designed to support group interactions by allowing multiple users to interact with the same content at the same time.
+  - These technologies make use of **natural gestures** (fingers, pens) to improve awareness and comfort in group settings (**Müller-Tomfelde, 2010**).
+
+- **Comfort in Group Interactions** 🤗👥:
+  - Shareable surfaces like **tabletops** were found to be more comfortable for group collaboration compared to working at a PC or standing in front of a vertical display (**Rogers & Lindley, 2004**).
+  - This natural interaction encourages users to join in without feeling intimidated.
+
+- **Augmented Reality Sandboxes** 🏞️🖌️:
+  - **AR sandboxes** allow visitors, like children, to create collaborative landscapes using real sand combined with virtual effects, fostering creativity and communication among participants (Yvonne Rogers).
+
+- **Equitable Participation with Shared Tables** ⚖️✋:
+  - Research shows that **physical tokens** on tables lead to more equitable participation, encouraging those who are typically shy to contribute more without needing to speak up (**Rogers et al., 2009**).
+  - People who spoke less verbally often contributed more through the tabletop, showing that the **form of interaction affects group dynamics**.
+
+- **Reflect Table for Real-Time Feedback** 🗣️🔄:
+  - **Reflect Table** used **LED lights** to show how much each person was speaking during a group discussion (**Bachour et al., 2008**). 
+  - Findings were mixed: those who spoke too much often reduced their speaking level, while those who spoke too little did not increase much.
+
+- **Design Challenges for Shareable Interfaces** 🚧🤷‍♀️:
+  - Providing real-time feedback can be intimidating for some, especially those who already speak less.
+  - Designing **discreet ways** for people to contribute can help those who find it hard to speak up, such as people on the **autistic spectrum** or those who are **shy**.
+
+- **PeopleLens for the Visually Impaired** 👓🔊:
+  - **PeopleLens** is a head-mounted device that uses **computer vision and audio cues** to help blind individuals engage socially by identifying who is nearby and their gaze direction (**Cecily Morrison et al., 2021**).
+  - It helps the user remember positions and names, creating a richer sense of spatial awareness and interaction.
+
+**Quotes & Attributions**:
+- **Müller-Tomfelde (2010)**: Investigated shared technologies for improved co-located collaboration.
+- **Rogers & Lindley (2004)**: Found shareable surfaces to be more comfortable for group work.
+- **Rogers et al. (2009)**: Physical tokens improve group participation at shared tables.
+- **Bachour et al. (2008, 2010)**: Used Reflect Table to analyze group talk dynamics and the impact of real-time feedback.
+- **Cecily Morrison et al. (2021, 2022)**: Developed PeopleLens to enhance social awareness for visually impaired users.
+
+---
+
+**5.6 Social Games** 🎮👫✨
+
+**Key Points & Attributions**:
+
+- **Social Games Defined** 🎲🤝:
+  - Social games are designed for **interaction**, played indoors or outdoors, with or without technology. These include board games, video games, and augmented games where players cooperate or compete while staying aware of each other’s actions.
+
+- **Popular Video Games for Social Interaction** 🕹️🗣️:
+  - Games like **Fortnite, Roblox, and Minecraft** support social play where players communicate in real time, often using **Discord** for voice or text chats. Some games even offer a **whisper** function for private chats.
+
+- **Augmented Social Games** ✋🤖:
+  - Classic games like **Rock Paper Scissors** have been adapted into augmented versions using **Alexa skills**, enhancing social bonding with laughter and fun for co-located families (**Beirl et al., 2019**).
+
+- **Community in Social Games** 🌐👥:
+  - Social games can create communities where emotions like **competition, collaboration, and peer pressure** come into play. 
+  - **Matt Richetti (2022)**: Proposed three heuristics to assess social games—type of interaction (synchronous or asynchronous), relationship symmetry, and strength of social ties.
+
+- **Minimalist Social Game - Journey** 🏜️🎵:
+  - **Journey by Jenova Chen**: A unique game where players control a robed figure traveling through a desert. Communication is done through musical chimes instead of words, emphasizing exploration and connection rather than competition.
+
+- **Live Streaming and Social Interaction** 📺📣:
+  - Watching others play, also called **live streaming**, is a popular form of social media. Platforms like **Twitch and YouTube** allow streamers to connect with audiences in real time, creating a sense of community. **Ninja** is a famous example, with millions of followers on both platforms.
+
+- **Small-Scale Social Streaming** 👥🌳:
+  - The best community experiences often happen with **smaller streamers**, where fewer viewers create a more intimate and connected environment, similar to families watching children play soccer in a park.
+
+**Citizen Science & Community Engagement** 🌱🔬:
+- **Citizen Science** 📊🌍:
+  - Citizen science involves everyday people collaborating with scientists to collect and analyze data, made easier by the **Internet and mobile devices**. Projects range from monitoring rain gardens to identifying galaxies.
+  - Portals like **Zooniverse** and **Scistarter** connect people with science projects, encouraging collaboration on important topics like environmental conservation.
+  - **iNaturalist** leverages **crowdsourcing** and **machine learning** to help participants identify species in nature.
+
+**Quotes & Attributions**:
+- **Beirl et al. (2019)**: Highlighted augmented reality adaptations of classic games for increased social cohesion.
+- **Matt Richetti (2022)**: Proposed heuristics for understanding community dynamics in social games.
+- **Taylor (2018)**: Discussed the rise of live streaming as a form of entertainment and social interaction.
+
+---
+
+
+### **Summary** 🌍🤝💬
+
+**Key Points & Attributions**:
+
+- **Humans Are Inherently Social** 🧑‍🤝‍🧑💛:
+  - Collaboration, coordination, and communication are core human needs, and new technologies help us do these in **more diverse and extensive ways**.
+
+- **Social Mechanisms in Communication** 🗣️🌐:
+  - Different **social mechanisms** help people interact effectively in **face-to-face** and **remote** settings, supporting **conversation, coordination, and awareness**.
+
+- **The Role of Talk in Social Coordination** 🗨️🔄:
+  - **Talk** and how it’s managed are integral for social interaction, helping people navigate complex communication situations.
+
+- **Technologies for Remote Communication** 📱💻:
+  - Many technologies have been developed to support **remote communication**, expanding how we connect over distances.
+
+- **Importance of Awareness** 👀🔄:
+  - Staying aware of others' activities and letting others know what you’re doing are crucial aspects of effective collaboration and socializing.
+
+- **Impact of Social Technologies** 📲🌟:
+  - Social technologies like **Teams** and **Zoom** have significantly changed how people maintain connections, socialize, and work, especially during critical times like the **COVID-19 pandemic**.
+
+**Quotes & Attributions**:
+- **Chapter Summary**: Discussed core aspects of sociality—communication and collaboration—and the technologies that support them in both physical and remote spaces.
+
+---
+
+### **Chapter 5 Glossary** 🌍🤝💬
+
+1. **Social Interaction** 🤝:
+   - The process of people communicating, coordinating, and collaborating in social, work, and everyday contexts. It is essential for human relationships and is supported by various technologies.
+
+2. **Face-to-Face Conversations** 🗣️:
+   - Direct verbal interactions involving physical presence, gestures, body language, and other non-verbal cues that are essential for natural and effective communication.
+
+3. **Remote Collaboration** 🌐👥:
+   - Collaboration that occurs when people work together using technology across different locations, such as videoconferencing tools (e.g., Zoom, Teams).
+
+4. **Co-Presence** 👥🖥️:
+   - The concept of being physically present together and using technology to enhance interaction and coordination among co-located groups.
+
+5. **Videoconferencing** 🎥🖥️:
+   - A technology that allows people in different locations to have real-time video and audio communication over the internet, widely used for remote meetings and social gatherings.
+
+6. **Hybrid Working** 🏠🏢:
+   - A work model combining remote and office-based work, offering flexibility but also challenges in maintaining collaboration quality between in-person and remote participants.
+
+7. **Social Media** 📱💬:
+   - Platforms that enable people to stay connected, socialize, and share updates over long distances, such as Facebook, LinkedIn, WhatsApp, and Instagram.
+
+8. **Social Games** 🎮🤝:
+   - Games that are played by multiple people, either cooperatively or competitively, facilitating social interaction. Examples include Fortnite, Roblox, and Minecraft.
+
+9. **Peripheral Awareness** 👀🗣️:
+   - The ability to stay aware of what is happening in the physical and social context around oneself, even when focused on other activities, such as noticing conversations or mood changes.
+
+10. **Situational Awareness** ⚠️👥:
+    - The ability to understand what is happening around oneself to predict how events may unfold. This is crucial in high-stress, technology-rich environments like air traffic control.
+
+11. **Shareable Interfaces** 🖥️👐:
+    - Technologies that allow multiple users to interact simultaneously, such as multitouch tables and large shared displays, promoting collaborative work and coordination.
+
+12. **Social Presence** 👤💬:
+    - The sense of being "present" with someone in a virtual environment, aiming to replicate the feeling of face-to-face interaction in remote settings.
+
+13. **Telepresence** 🤖👥:
+    - The feeling of being physically present at a distant location, often facilitated by robots or immersive technologies, allowing remote participants to interact more naturally with physical environments.
+
+14. **Augmented Reality (AR) Sandboxes** 🏞️👐:
+    - Interactive installations where users manipulate real sand, while the virtual landscape is projected over it, facilitating collaborative creativity.
+
+15. **Reflect Table** 💡🗣️:
+    - An ambient technology that provides feedback on group communication, using colored LEDs to represent participants’ speaking levels, encouraging equitable contribution.
+
+16. **Live Streaming** 📺👥:
+    - Broadcasting one's activity in real time to an audience, often used by gamers to share their gameplay on platforms like Twitch and YouTube, facilitating social engagement between the streamer and viewers.
+
+17. **Gather** 🏰💻:
+    - A virtual 2D space allowing people to meet and socialize online using avatars, used to foster community and engagement during events like classes or social gatherings.
+
+18. **Social Translucence** 🔍👥:
+    - A design principle that emphasizes making participants and their activities visible to one another in a shared digital environment, thus fostering awareness and collaboration.
+
+19. **PeopleLens** 👓🔊:
+    - A wearable AR technology designed for people with low vision, helping them sense their surroundings and recognize others by using spatialized audio cues.
+
+20. **Citizen Science** 🌍🔬:
+    - The involvement of the general public in scientific research, using technology to contribute data and insights to various projects. Examples include monitoring ecosystems via platforms like iNaturalist.
