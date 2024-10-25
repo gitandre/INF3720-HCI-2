@@ -421,3 +421,31 @@ Here's a summary of Section 3.5 with an emojified format and proper citations:
 **Quotes & Attributions**:
 - **Mazzucato & Dibb (2019)**: Emphasized the concept of "grand challenges" that require systemic, society-wide solutions—beyond a simple fix. 🎯🌍
 - **Lechelt et al. (2020)**: Advocated for changing the design values in tech to **promote sustainability** and longer gadget lifespans. 🌱🔄
+
+### 3.6.4 Theories 📚🧠✨
+
+**Section 3.6.4** dives into how **various theories** have shaped the field of **Human-Computer Interaction (HCI)** over the last four decades, influencing user interface and experience design. Here's a summarized list:
+
+1. **Types of Theories in HCI** 🧠🤝❤️🏢
+   - **Cognitive, Social, Affective, and Organizational** theories have been used to enhance user interfaces. For example, early cognitive theories addressed **human memory limitations** to create intuitive interfaces. (Rogers, 2012) 🧠🔄
+
+2. **Benefits of Using Theories in Interaction Design** 🌟🎨
+   - Applying these theories helps identify important factors—whether **cognitive, social, or emotional**—that are relevant to designing and evaluating interactive products. 🧐💬🎮
+
+3. **Roles of Theories in HCI** 🛠️🔍📝
+   - Theories serve multiple roles, including:
+     - **Descriptive**: Providing concepts and models 📊
+     - **Explanatory**: Explaining relationships and processes 🤔🔗
+     - **Predictive**: Testing hypotheses about **user performance** 📈
+     - **Prescriptive**: Offering **guidance** for designing interfaces 🖍️✨
+     - **Generative**: Inspiring the creation of new ideas and designs 💡🌱
+     - **Informative**: Helping to select the best knowledge to understand users 📚🔍
+     - **Conceptual**: Developing **high-level frameworks** 📋🏗️
+     - **Critical**: Providing ways to **critique** interaction design 🔍⚖️
+
+4. **Upcoming Content in HCI** 🔜📘
+   - The next three chapters will cover influential theories in HCI, focusing on the **cognitive, social, and affective aspects of interaction**—deepening our understanding of user behavior. 🧠❤️💬
+
+**Quotes & Attributions**:
+- **Rogers (2012)**: Highlighted the importance of **cognitive theories** in the evolution of user interface design, providing insights into effective memory-based user interactions. 🧠💡
+
