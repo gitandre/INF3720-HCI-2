@@ -172,6 +172,37 @@
 - **Bailenson (2021)**: Explained causes of "Zoom fatigue," including cognitive overload and prolonged eye contact.
 - **Erickson and Kellogg (2000)**: Developed the principle of "social translucence" to ensure participants in virtual spaces were visible and their engagement apparent.
 
+Here’s a summarized and emojified version of Section 5.4.2 in list format:
+
+#### **5.4.2 Telepresence** 🤖🌍👥
+
+**Key Points & Attributions**:
+
+- **Telepresence Definition** 🌐👀:
+  - Telepresence refers to the perception of being physically present in another location while controlling a remote device, like a robot.
+
+- **Telepresence Robots** 🤖👧:
+  - Robots are used for remote events, enabling users to see and move around a distant space, enhancing their feeling of presence.
+  - **Natalie Friedman and Alex Cabral (2018)**: Found that telepresence robots helped children with developmental difficulties feel more socially and physically confident.
+
+- **AI-Enabled Telepresence** 🤖🧠:
+  - **Ava the Robot**: Uses AI for autonomous navigation, moving to specified locations independently. However, this automation reduces user control, which impacts the sense of embodiment.
+
+- **Social Presence vs. Telepresence** 👥💬:
+  - **Short et al. (1976)**: Described "social presence" as the feeling of being with a real person virtually. It's different from telepresence, which involves a virtual person in a physical space.
+
+- **3D Virtual Worlds for Socializing** 🌍💃:
+  - Virtual spaces, like the **2020 ISMAR Conference**, used 3D environments to connect attendees. Avatars could perform actions like dancing and clapping, enhancing the feeling of social presence, but still fell short of true realism.
+
+- **The Metaverse** 🕶️🌌:
+  - The Metaverse aims to create a richer, immersive experience where digital avatars interact in 3D worlds.
+  - **Mark Zuckerberg (Meta)**: Envisioned a more embodied experience using VR controllers to enhance the sense of presence. Current limitations include the absence of legs in avatars due to tracking challenges.
+
+**Quotes & Attributions**:
+- **Natalie Friedman and Alex Cabral (2018)**: Telepresence robots increased self-efficacy in children with developmental difficulties.
+- **Short et al. (1976)**: Conceptualized "social presence" in telecommunication, emphasizing the realness of others in a virtual context.
+
+
 
 
 
