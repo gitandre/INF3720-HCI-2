@@ -202,6 +202,78 @@ Here’s a summarized and emojified version of Section 5.4.2 in list format:
 - **Natalie Friedman and Alex Cabral (2018)**: Telepresence robots increased self-efficacy in children with developmental difficulties.
 - **Short et al. (1976)**: Conceptualized "social presence" in telecommunication, emphasizing the realness of others in a virtual context.
 
+#### **5.4.3 Collaborative Tools** 🤝🛠️📅
+
+**Key Points & Attributions**:
+
+- **Common Collaborative Tools** 📋💻:
+  - Tools like shared calendars, word processors, and project management apps have become essential for both work and everyday life.
+  - **Slack**: Used widely for work, social communication, team management, code sharing, and deployments—especially by software development teams (**Lin et al., 2016**). Developers often keep Slack open to chat and check on each other’s availability.
+
+- **Shared Calendars** 🗓️📆:
+  - Tools like Google and Outlook calendars help people manage meetings and events. They are used both at work and at home to coordinate schedules, especially for family activities (birthdays, playdates, etc.).
+
+- **Miro for Online Learning** 🎨📚:
+  - **Nic Marquardt (UCL)**: Uses Miro for teaching interaction design. Students upload their design posters on the digital canvas, where others can zoom in, comment, and give feedback using digital sticky notes (yellow for students, orange for instructors).
+
+- **Live Sessions with Miro** 🖱️✨:
+  - During live classes, students move their cursors around the Miro board, which helps create a sense of shared space. Students enjoyed the visibility of activities and the collaborative nature of feedback.
+
+- **People-in-a-Box** 📦👤:
+  - **Proto (David Nussbaum, 2020)**: Developed a 3D box to display lifelike digital images of people. The 3D "people-in-a-box" provide an almost real-time interaction experience using embedded LEDs that create volumetric depth.
+
+**Quotes & Attributions**:
+- **Lin et al. (2016)**: Noted Slack's versatility in supporting work and social interactions.
+- **Nic Marquardt (UCL)**: Demonstrated how Miro helps foster a sense of collaboration and awareness in online classes.
+
+---
+
+Here’s a summarized and emojified version of Section 5.5 in list format:
+
+---
+
+### **5.5 Co-Presence** 👥🤝✨
+
+**Key Points & Attributions**:
+
+- **Definition of Co-Presence** 📌🧑‍🤝‍🧑:
+  - Co-presence involves designing social technologies that support people interacting in the **same physical space**, enhancing activities like collaboration, learning, and socializing.
+
+- **Goal of Co-Presence Technologies** 🛠️🎯:
+  - These technologies aim to **augment co-located group interactions** to make collaboration more effective.
+
+- **Technologies Supporting Co-Presence** 💻🖐️:
+  - Examples include **multitouch screens**, **mid-air gestures**, and **object recognition**—all designed to support parallel and interactive group activities.
+
+- **Coordination and Awareness** 👀🤲:
+  - To evaluate their effectiveness, we need to consider how people coordinate and maintain awareness during **face-to-face interactions** and how technology adapts or replaces these natural behaviors.
+
+**Quotes & Attributions**:
+- **Human-Computer Interaction Research**: Emphasizes designing technologies that adapt face-to-face coordination and awareness for group settings to make co-presence effective.
+
+
+#### **5.5.1 Physical Coordination** 🤝👋🔄
+
+**Key Points & Attributions**:
+
+- **Verbal & Nonverbal Coordination** 🗣️🤫:
+  - During close collaboration (e.g., moving a piano 🎹), people coordinate actions using **commands** ("Down a bit") and **nonverbal cues** like nods, winks, and gestures.
+
+- **Gestures for Time-Critical Tasks** ⏱️✋:
+  - For fast-paced or loud environments, gestures often replace spoken words. Examples include:
+    - **Conductors** using batons to lead orchestras 🎼.
+    - **Airport ground staff** signaling pilots with orange batons ✈️.
+
+- **Universal & Cultural Gestures** 🌍✋:
+  - **Common gestures** like beckoning, waving, and halting are used universally, though cultural differences affect their interpretation.
+
+- **Using Physical Objects for Coordination** 🪄📊:
+  - **Wands, batons, and other props** are used to support communication in groups. They serve as **external thinking aids**, helping people visualize and share ideas effectively (**Brereton & McGarry, 2000**).
+  - **Holding or waving objects** helps grab attention and fosters **better group awareness** and understanding of the shared activity (**Fernaeus & Tholander, 2006**).
+
+**Quotes & Attributions**:
+- **Brereton & McGarry (2000)**: Physical props help explain principles or plans in group settings.
+- **Fernaeus & Tholander (2006)**: Physical artifacts enhance awareness and exploration in collaborative activities.
 
 
 
