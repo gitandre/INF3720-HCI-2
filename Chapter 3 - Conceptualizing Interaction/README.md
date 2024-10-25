@@ -402,3 +402,22 @@ Here's a summary of Section 3.5 with an emojified format and proper citations:
 - **Johannes Schöning (2019)**: Critiqued ubiquitous computing, calling out impractical smart solutions. ❌📱
 - **Dan Russell & Svetlana Yarosh (2018)**: Discussed sci-fi as a source of inspiration, noting its biases and limits in predicting future tech. 🚀📚
 
+#### 3.6.3 Challenges 🌍💪
+
+**Section 3.6.3** explores the **grand challenges** facing both society and technology, and how HCI (Human-Computer Interaction) can contribute to solving them. Here's a summarized list:
+
+1. **Grand Challenges for Society** 🌱🎯
+   - Issues like **zero hunger, quality education, gender equality, and sustainable cities** are systemic and require large-scale solutions—no **"silver bullet"** exists. (Mazzucato & Dibb, 2019) 🚫🎯🏙️
+
+2. **HCI's Role in Societal Challenges** 🖥️🤝🌏
+   - **HCI researchers** must consider how their **methods** can scale to contribute meaningfully to these global challenges. How can HCI drive solutions for these grand issues? 🤔🔍🌍
+
+3. **Tech and Climate Change** 🌱📱♻️
+   - **HCI researchers** also focus on **climate change**, particularly looking at design values that influence consumption patterns, disposal, and recycling. For example, many gadgets like smartphones and laptops are designed with a short lifespan, pressuring users to always upgrade. 🌿📉
+
+4. **Pushing for Alternative Design Values** 🔄🛠️
+   - By promoting **alternative design values** and production cycles, tech companies could **extend product lifespan** and use **reusable materials**. This requires a shift in business models to embrace **sustainability**. ♻️💡
+
+**Quotes & Attributions**:
+- **Mazzucato & Dibb (2019)**: Emphasized the concept of "grand challenges" that require systemic, society-wide solutions—beyond a simple fix. 🎯🌍
+- **Lechelt et al. (2020)**: Advocated for changing the design values in tech to **promote sustainability** and longer gadget lifespans. 🌱🔄
