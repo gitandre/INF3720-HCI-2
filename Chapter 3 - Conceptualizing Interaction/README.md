@@ -349,3 +349,29 @@ Here's a summary of Section 3.5 with an emojified format and proper citations:
 **Quotes & Attributions**:
 - **Tyack and Mekler (2020)**: Applied **Self-Determination Theory** to analyze human motivation in HCI, especially in games and play. 🎮✨
 
+#### 3.6.1 Paradigms 🎯🔍
+
+**Section 3.6.1** covers different **paradigms**—essentially guiding principles and practices agreed upon by a community to frame and approach research in interaction design. Here's a summarized list:
+
+1. **What Paradigms Do** 📊🧭
+   - Establish how to **frame questions**, what phenomena to observe, and how findings should be analyzed. (Kuhn, 1972) 📖🔍
+
+2. **Early GUIs & User-Centered Design (1980s)** 🖥️💡
+   - **Desktop-centered** applications with a focus on a **single user** and a **screen interface**. The core of early HCI. 🖱️👤
+
+3. **Shift to Ubiquitous Computing (1990s)** 📱🌐
+   - Movement beyond the desktop to design **mobile and pervasive technologies** like **smartphones and tablets**. Expanded what people could do in everyday life. 📲🌍
+
+4. **Big Data & IoT (2000s)** 📡🔗
+   - Introduction of **sensors and smart buildings** to collect **real-time data** on health, environment, etc. Used for decision-making to **optimize and automate** everyday tasks. 🏢📊⚙️
+
+5. **AI & Machine Learning (Today)** 🤖🎶
+   - **AI and ML** at the interface level to assist decision-making. Examples include **Spotify recommendations** or **personalized shopping assistants**. AI is being used to **cater to user preferences** and streamline choices. 🎧🛒✨
+
+6. **Human-Centered AI Movement (2020s)** 🧠🤝
+   - Growing need for **transparency and control** in AI—focus on **augmenting humans** rather than replacing them. Encourages collaboration between **HCI and AI** to make AI tools more people-focused. 🌍✨
+
+**Quotes & Attributions**:
+- **Kuhn (1972)**: Highlighted the role of paradigms in determining how research questions are framed and findings analyzed. 📘🔍
+- **Shneiderman (2022)**: Advocates for **human-centered AI** to empower rather than replace people, fostering **collaboration** between HCI and AI researchers. 🤖❤️
+
