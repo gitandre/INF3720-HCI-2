@@ -70,3 +70,36 @@
   - Asking questions, articulating assumptions, and expressing ideas as concepts help clarify the product's design.
   - This early ideation helps in moving from vague ideas to concrete models with defined features and functionality. 
 
+### 3.2 Conceptualizing Interaction 🎨💡
+
+- **Identify Assumptions and Claims** 🤔
+  - **Assumption**: Taking something for granted, needing investigation (e.g., people want self-driving cars).
+  - **Claim**: A statement assumed true but open to question (e.g., people will feel safe in self-driving cars).
+  - Assumptions focus on current situations, while claims are about potential future outcomes. 📅🔮
+
+- **Clarify Your Design Ideas** ✍️
+  - Write down and evaluate assumptions/claims.
+  - Identify vague ideas to refine and strengthen them.
+  - Helps improve design ideas or create new user experiences that don't yet exist. 🚀
+
+- **Team Scenario: Improving a Browser** 📱🌐
+  - The team assumes there's a usability problem since customers switched to a rival browser.
+  - Claims improvement will win customers back by making the interface simpler and more attractive. 🎨✨
+  - User research reveals usability problems, like difficulties with the bookmark function. 📑❌
+  - Diverse perspectives help identify conflicting views and challenge vague assumptions. 🗣️🤷‍♂️
+
+- **Example Questions to Explore Problems** ❓
+  - Are there problems with the product/user experience? 🔍
+  - What evidence supports these problems? 📊
+  - How can the design solve these problems? 🔧
+
+- **Lessons from 3D TV and Curved TV Failures** 📺❌
+  - Assumed people would want an enhanced viewing experience akin to the cinema.
+  - Reality: 3D glasses were cumbersome, and benefits of curved TVs weren’t worth the cost.
+  - Highlight: Importance of understanding actual user needs vs. assumed desires. 📉👥
+
+- **Importance of Defining Assumptions Early** ⏳
+  - Clarify assumptions about problems/opportunities early and throughout the project.
+  - Leads to better articulation of conceptual models that support the intended user experience. 🎯👥✨
+
+Let me know if this helps or if you need further details! 😊
