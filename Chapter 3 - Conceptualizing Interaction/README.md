@@ -375,3 +375,30 @@ Here's a summary of Section 3.5 with an emojified format and proper citations:
 - **Kuhn (1972)**: Highlighted the role of paradigms in determining how research questions are framed and findings analyzed. 📘🔍
 - **Shneiderman (2022)**: Advocates for **human-centered AI** to empower rather than replace people, fostering **collaboration** between HCI and AI researchers. 🤖❤️
 
+#### 3.6.2 Visions 🌌✨
+
+**Section 3.6.2** explores the impact of **visions**—imagined future scenarios—that inspire research, guide technological development, and influence interaction design. Here's a summarized list:
+
+1. **Mark Weiser's Vision (1991)** 🌍💻
+   - **Ubiquitous computing**: Envisioned computing integrated seamlessly into everyday objects, providing **serenity and comfort** while moving in and out of the user’s attention as needed. This inspired a lot of **R&D**, even though the reality hasn't fully matched the vision. (Weiser, 1991; Abowd, 2012) 🛋️🔔
+
+2. **Critique of Ubiquitous Computing** ❌🤖
+   - **Johannes Schöning (2019)** criticized ubiquitous computing for resulting in too many "dumb smart" technologies that don’t address real problems but often just look **cool** without being functional. 🧐📱
+
+3. **Apple’s Knowledge Navigator (1987)** 📱🤖
+   - Imagined a professor using a **touchscreen tablet** with a speech-based assistant—25 years ahead of its time and a direct inspiration for technologies like **Siri**. 🗣️📅
+
+4. **Modern Visions of AI** 🤖🏥🏠
+   - More recent visionary videos focus on **AI in healthcare, transport, and smart cities**—used to inspire R&D and as a marketing strategy for future products. 🚑🏙️
+
+5. **Science Fiction as Inspiration** 🚀📖
+   - **Dan Russell & Svetlana Yarosh (2018)** discuss the pros and cons of sci-fi in HCI, pointing out it provides **debate fodder** but is often biased and not an accurate predictor of future tech. **Star Trek's holodeck** is an example of how sci-fi reflects the era in which it's created rather than predicting the future. 🌌🖖
+
+6. **Role of Visions** 💭✨
+   - **Visions** help shape how society might use next-gen technology for **comfort, efficiency, and safety**, while also raising concerns about **privacy and trust**—stimulating dialogue among **researchers, policy-makers, and developers**. 🛡️💡🔍
+
+**Quotes & Attributions**:
+- **Mark Weiser (1991)**: Proposed ubiquitous computing where technology would blend seamlessly into everyday life. 🌐🛋️
+- **Johannes Schöning (2019)**: Critiqued ubiquitous computing, calling out impractical smart solutions. ❌📱
+- **Dan Russell & Svetlana Yarosh (2018)**: Discussed sci-fi as a source of inspiration, noting its biases and limits in predicting future tech. 🚀📚
+
