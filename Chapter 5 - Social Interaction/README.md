@@ -276,5 +276,27 @@ Here’s a summarized and emojified version of Section 5.5 in list format:
 - **Fernaeus & Tholander (2006)**: Physical artifacts enhance awareness and exploration in collaborative activities.
 
 
+#### **5.5.2 Awareness** 👀🗣️🔄
+
+**Key Points & Attributions**:
+
+- **Definition of Awareness** 🔍🧑‍🤝‍🧑:
+  - **Awareness** means knowing who is around, what’s happening, and who’s interacting with whom (**Dourish & Bly, 1992**). It’s like observing a party—seeing who’s chatting, who's entering or leaving, and keeping track of the vibe.
+
+- **Peripheral Awareness** 👁️‍🗨️👂:
+  - This involves keeping tabs on the surroundings while focused on something else. For example, noticing someone’s mood or who’s just arrived, all while in a conversation.
+
+- **Situational Awareness** ⚠️💡:
+  - This is about understanding what’s happening around you and predicting how it affects ongoing events. It's crucial in dynamic environments like **air traffic control** or an **operating theater**, where constant awareness of complex information is needed.
+
+- **Close-Knit Team Dynamics** 🤝🎭:
+  - In **interdependent tasks**, awareness helps people collaborate efficiently—like performers monitoring each other to stay in sync. Teams develop a strong sense of what others are doing and adapt accordingly.
+
+- **Classic Study: London Underground Controllers** 🚉🎙️:
+  - **Heath & Luff (1992)**: Studied two controllers in the London Underground. Controller B would overhear Controller A talking to a train driver and take action, like making announcements, without needing explicit instructions. They showed how awareness enabled seamless coordination.
+
+**Quotes & Attributions**:
+- **Dourish & Bly (1992)**: Awareness includes knowing who’s around and what's happening to maintain social context.
+- **Heath & Luff (1992)**: Demonstrated how shared awareness helps controllers work in sync without direct communication.
 
 
