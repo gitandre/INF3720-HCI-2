@@ -367,4 +367,72 @@ Developed by **Rogers and Marshall (2017)**:
 - 🛠️ **Prototyping** is a useful technique for **facilitating user feedback** on designs at all stages.
 - 🔄 **Interaction design activities** are becoming better integrated with **lifecycle models** from other related disciplines like **software engineering** 💻.
 
+---
+
+**Glossary for Chapter 2: The Process of Interaction Design**
+
+### 1. **Interaction Design**
+   The process of designing interactive products to support the way people communicate and interact in their everyday lives. It involves discovering user requirements, designing solutions, and prototyping and evaluating those solutions.
+
+### 2. **Stakeholders**
+   Individuals or groups who are affected by or have an interest in the development of an interactive product. This may include users, customers, developers, and anyone impacted by the product's introduction.
+
+### 3. **Double Diamond Model**
+   A model for design that includes four phases: Discover, Define, Develop, and Deliver. It emphasizes divergent and convergent thinking for problem-solving.
+
+   - **Discover**: Understanding the problem by gathering insights from stakeholders.
+   - **Define**: Framing the design challenge based on gathered insights.
+   - **Develop**: Generating and refining design ideas through brainstorming and collaboration.
+   - **Deliver**: Prototyping and testing different solutions, iterating on feedback.
+
+### 4. **Design Principles**
+   Guidelines that support effective design, including:
+   - **Be People-Centered**: Focus on the needs and experiences of the people who will use the product.
+   - **Communicate Visually and Inclusively**: Make designs accessible and easily understood.
+   - **Collaborate and Co-Create**: Work with stakeholders to generate solutions.
+   - **Iterate**: Repeatedly refine designs based on user feedback.
+
+### 5. **Prototyping**
+   The creation of a preliminary model of a product to explore and test ideas before finalizing the design. Prototypes can be paper-based or digital and serve as a means for evaluating design choices.
+
+### 6. **User-Centered Design**
+   An approach that emphasizes involving users in every stage of the design process to ensure the product meets their needs and preferences. It includes focusing on user tasks, empirical measurement, and iterative testing.
+
+### 7. **Activity-Centered Design**
+   Focuses on the behavior surrounding specific activities rather than user needs and goals. The design is informed by how people interact with specific tasks.
+
+### 8. **Genius Design**
+   A design approach where the designer relies on their own expertise and intuition rather than extensive user involvement. Users validate the final ideas but are not involved throughout the process.
+
+### 9. **Participatory Design (Co-Design)**
+   A design philosophy that involves users as active participants in the design process, ensuring their needs and feedback directly influence the product.
+
+### 10. **People-Centered Approach**
+   A broader approach that not only focuses on end users but also includes stakeholders and contextual factors that may influence product use. It ensures the product is designed for real-world application.
+
+### 11. **Lifecycle Model**
+   A framework that outlines the stages of developing an interactive product, including discovering requirements, designing alternatives, prototyping, and evaluating.
+
+### 12. **Design Sprint**
+   A time-constrained, iterative process for solving design problems and testing solutions. It consists of six phases: Pre-sprint (planning), Understand, Define, Sketch, Decide, Prototype, and Validate.
+
+### 13. **Research in the Wild (RITW)**
+   A research approach involving the development and testing of new technologies in natural settings, rather than controlled environments, to observe how people use and adapt them in their daily lives.
+
+### 14. **Expectation Management**
+   The process of ensuring stakeholders and users have realistic expectations about what a new product will offer to prevent disappointment and increase acceptance.
+
+### 15. **Ownership**
+   Involving users throughout the design process so that they feel they have contributed to the product, leading to greater acceptance and support of the final solution.
+
+### 16. **Iteration**
+   The practice of refining and improving design through repeated cycles of prototyping, user testing, and feedback analysis.
+
+### 17. **Crowdsourcing in Design**
+   Engaging a large number of people (often online) to contribute ideas or feedback for the design process. This helps to incorporate diverse perspectives.
+
+### 18. **A/B Testing**
+   A method for comparing two versions of a design to determine which one performs better, typically used to refine user interfaces or test specific changes.
+
+
 
