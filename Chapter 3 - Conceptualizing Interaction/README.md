@@ -422,7 +422,7 @@ Here's a summary of Section 3.5 with an emojified format and proper citations:
 - **Mazzucato & Dibb (2019)**: Emphasized the concept of "grand challenges" that require systemic, society-wide solutions—beyond a simple fix. 🎯🌍
 - **Lechelt et al. (2020)**: Advocated for changing the design values in tech to **promote sustainability** and longer gadget lifespans. 🌱🔄
 
-### 3.6.4 Theories 📚🧠✨
+#### 3.6.4 Theories 📚🧠✨
 
 **Section 3.6.4** dives into how **various theories** have shaped the field of **Human-Computer Interaction (HCI)** over the last four decades, influencing user interface and experience design. Here's a summarized list:
 
@@ -448,4 +448,49 @@ Here's a summary of Section 3.5 with an emojified format and proper citations:
 
 **Quotes & Attributions**:
 - **Rogers (2012)**: Highlighted the importance of **cognitive theories** in the evolution of user interface design, providing insights into effective memory-based user interactions. 🧠💡
+
+#### 3.6.5 Models 🧩🔍✨
+
+**Section 3.6.5** explores the use of **models** in **interaction design**, providing simplified depictions of **human behavior** and **human-computer interaction**. Here's the summarized list:
+
+1. **Models in Interaction Design** 📊💻
+   - Models help describe human behavior and interaction in a **simplified way**. They're often derived from **theories** like psychology to help **structure** and **relate** the core features of interactions. 🧠🔄
+
+2. **Norman's Seven Stages of Action Model** 📋➡️🤔
+   - **Don Norman (1988)** developed influential models like the **seven stages of action** to explain how people move from planning to executing actions, and then to evaluating whether their goals were met. 🏁🚀📈
+
+3. **User Models for Personalization** 🎯🎥✨
+   - Modern user models also focus on other aspects of behavior, such as **emotions, personality, and learning styles**. These models are used to **personalize** digital experiences, for example, suggesting movies based on users’ unique interaction preferences. 😄🎬💡
+
+4. **Abstract from Theories** 🧠➡️🔄
+   - Models are often abstracted from broader theories, offering a **more practical application** for designers. This helps in building systems that better respond to user needs and expectations. 🛠️💻
+
+**Quotes & Attributions**:
+- **Don Norman (1988)**: Created models based on cognitive theories, like the **seven stages of action**, to better understand how users interact with technology. 🔄🖥️
+
+#### 3.6.6 Frameworks 🛠️📋✨
+
+**Section 3.6.6** explores the role of **frameworks** in interaction design, helping designers shape and guide user experiences. Here's the summarized list:
+
+1. **Purpose of Frameworks** 🧭💡
+   - **Frameworks** provide designers with **guidance** on what to design or focus on. They can take the form of **steps, questions, principles, or tactics**—helping structure the design process. 🚶‍♂️💬
+
+2. **Difference from Models** ⚖️✨
+   - Unlike **models**, which describe aspects of human behavior, **frameworks** offer **practical advice** for designing user interactions and experiences. 🎨🖥️
+
+3. **Based on Theories and Practices** 📖🤔
+   - Frameworks often emerge from both **theoretical insights** (such as cognitive theories) and **real design experiences**—bridging research with hands-on user studies. 🤓✏️
+
+4. **Scope and Application** 🌐🔍
+   - Frameworks in HCI cover diverse topics such as **learning, working, socializing, and emotion**. They are also used to design **technologies** intended to evoke specific responses, like enjoyment or empathy. 🧠❤️
+
+5. **Don Norman’s Framework** 🛠️👨‍💻
+   - **Don Norman (1988)** developed a framework that describes the **relationship between designers, systems, and users**. It includes:
+     - **Designer’s Model**: How the designer thinks the system should work.
+     - **System Image**: How the system is represented (via interface, help, manuals).
+     - **User’s Model**: How the user understands the system. 👥🔄
+   - This framework highlights the importance of **closing the gap** between what the designer envisions and what the user understands—aiming for a clearer **system image**. 📊🔗
+
+**Quotes & Attributions**:
+- **Don Norman (1988)**: Provided a framework to bridge the gap between **designer intentions** and **user understanding**, emphasizing the need for alignment through effective **system representation**. 🏗️🖥️✨
 
