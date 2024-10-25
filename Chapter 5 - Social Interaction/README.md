@@ -43,9 +43,6 @@
 **Quotes & Attributions**:
 - **Authors of Section 5.1**: "A diversity of technologies has been developed specifically to enable us to persist in being social when physically apart from one another."
 
-
-Here's a summarized and emojified version of Section 5.2 in list format:
-
 ---
 
 ### **5.2 Being Social** 👥🌐📱
@@ -92,6 +89,7 @@ Here's a summarized and emojified version of Section 5.2 in list format:
 - **Sherry Turkle (2015)**: "It is time to reclaim conversation... to put down our phones more often and (re)learn the art of talking to each other."
 - **Yvonne Rogers (2020)**: Documented the emergence of Zoom parties and the longing for physical connection during the pandemic.
 
+---
 
 ### **5.3 Face-to-Face Conversations** 🗣️👥🎶
 
@@ -134,6 +132,46 @@ Here's a summarized and emojified version of Section 5.2 in list format:
 - **Brendan (2017)**: Casual greetings like "Hey" and ending with "Thanks" led to higher reply rates in email conversations.
 - **Sacks et al. (1978)**: Defined key rules for managing turn-taking in conversations.
 - **Schegloff and Sacks (1973)**: Discussed the use of adjacency pairs to maintain conversation flow.
+
+---
+
+### 5.4 Remote Collaboration and Communication
+
+#### **5.4.1 Videoconferencing** 📹💻🤝
+
+**Key Points & Attributions**:
+
+- **Early Videoconferencing Research** 📽️🕰️:
+  - **Fish et al. (1990)**: Created the **VideoWindow**, a system that connected two distant lounges with large video projections, making conversations feel almost face-to-face.
+  - Users spoke a bit louder and discussed the video system often during these early tests (Kraut et al., 1990).
+
+- **Characteristics of Videoconferencing Behavior** 📞🗣️:
+  - **Connaill et al. (1993)**: Found that during video calls, people projected themselves more, took longer turns, and interrupted each other less compared to in-person talks.
+
+- **Modern Videoconferencing Tools** 🖥️🛠️:
+  - Videoconferencing evolved significantly—Skype, FaceTime, Zoom, and Teams became popular, providing additional features like screen sharing, breakout rooms, custom backgrounds, and emoji reactions.
+
+- **Zoom Fatigue** 😫💤:
+  - **Bailenson (2021)**: Highlighted reasons for "Zoom fatigue," such as prolonged close-up eye contact, cognitive overload, self-evaluation from seeing oneself, and sitting in one place for too long.
+
+- **New Virtual Spaces for Engagement** 🕹️👾:
+  - During the pandemic, 2D virtual spaces like **Gather** allowed students to socialize more informally, creating avatars and moving in retro-style virtual areas to engage with others.
+  - **Sococo** provided a similar experience, helping remote teams feel connected throughout the day (Kate Jones, UCL).
+
+- **Concept of Social Translucence** 🌫️👥:
+  - **Erickson and Kellogg (2000)**: Emphasized the importance of making participants and their activities visible to each other in virtual spaces, a principle integrated into tools like **Babble** and **Sococo**.
+
+- **360 Cameras for Hybrid Meetings** 📸🔄:
+  - Tools like **Meeting Owl** provided 360-degree views of meeting rooms, automatically zooming in on speakers to improve inclusivity for remote participants.
+
+- **Hybrid Working** 🏠🏢⚖️:
+  - After the pandemic, hybrid working became popular due to its flexibility—people saved time on commutes and worked more comfortably. However, remote participants often felt disconnected from office life.
+  - **Microsoft (2022)**: Conducted research to make hybrid meetings more inclusive, experimenting with video feed placements to improve eye contact and shared document interactions.
+
+**Quotes & Attributions**:
+- **Bailenson (2021)**: Explained causes of "Zoom fatigue," including cognitive overload and prolonged eye contact.
+- **Erickson and Kellogg (2000)**: Developed the principle of "social translucence" to ensure participants in virtual spaces were visible and their engagement apparent.
+
 
 
 
