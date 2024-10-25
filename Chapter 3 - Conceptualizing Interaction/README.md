@@ -323,3 +323,29 @@ Here's a summary of Section 3.5 with an emojified format and proper citations:
 
 **Quotes & Attributions**:
 - **Preece et al. (2002)**: Defined responding as an interaction type where the **system initiates** interactions based on what it deems relevant to the user’s context. 📲✨
+
+### 3.6 Paradigms, Visions, Challenges, Theories, Models, and Frameworks 🎨🔍
+
+**Section 3.6** covers different **conceptual tools** used to inspire and inform the design and research process in interaction design. Here’s a summarized list:
+
+1. **Paradigms** 🧠🔄
+   - **General approaches** adopted by researchers and designers with shared **assumptions, values, and practices**. They shape how research is conducted within the community. 🤝📝
+
+2. **Challenges** 🌍⚠️
+   - Researchers are given **global issues** to tackle, like **sustainability** or **poverty reduction**. These challenges push for innovation in problem-solving for societal benefit. 🌿🌍💡
+
+3. **Visions** 📽️💭
+   - **Future scenarios** that guide research and development, often represented in films or narratives to **frame new possibilities** in interaction design. 🚀🎥✨
+
+4. **Theories** 📚🔬
+   - **Well-substantiated explanations** of phenomena used to analyze interaction design. For instance, **Self-Determination Theory** has been used to understand motivation in games and play. 🎮💬
+
+5. **Models** 📊🧩
+   - Simplified representations of **human-computer interaction** aspects, making it easier for designers to predict and evaluate **alternative designs**. 🖥️📉
+
+6. **Frameworks** 🗂️🛠️
+   - Sets of **interrelated concepts** or specific questions that **inform a particular domain** or method, like **collaborative learning** or **ethnographic studies**. 🧩👥🔍
+
+**Quotes & Attributions**:
+- **Tyack and Mekler (2020)**: Applied **Self-Determination Theory** to analyze human motivation in HCI, especially in games and play. 🎮✨
+
