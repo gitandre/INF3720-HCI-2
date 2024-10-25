@@ -153,3 +153,70 @@ IxD serves as an overarching term that includes many of these approaches.
   - **User groups** 👥
 - 🎯 Identifying and specifying relevant **usability and user experience goals** can help lead to the design of good interactive products.
 - 📝 **Design principles**, such as **feedback** 🔔 and **simplicity** ✨, are useful heuristics for informing, analyzing, and evaluating aspects of an interactive product.
+
+---
+**Glossary for Chapter 1: Interaction Design**
+
+1. **Interaction Design (IxD)**  
+   Designing interactive products to support effective, pleasurable, and seamless communication and interaction in everyday life. Emphasizes user-centered approaches to improve usability and user experience.
+
+2. **Good Design**  
+   A product that is easy to learn, effective to use, and enjoyable. It reflects user needs and follows principles of usability, resulting in a positive user experience.
+
+3. **Poor Design**  
+   A product that fails to consider user needs, often resulting in frustration, confusion, or difficulty during use. Typically lacks adherence to good interaction design principles.
+
+4. **People-Centered Design**  
+   An approach that focuses on understanding and augmenting the experiences of individuals and groups. Considers not only the needs of individual users but also broader societal contexts.
+
+5. **Accessibility**  
+   Ensuring an interactive product can be used by as many people as possible, including those with disabilities. It aims to remove barriers that might prevent interaction for those with impairments.
+
+6. **Inclusiveness**  
+   Being fair, open, and accommodating to a wide range of people, regardless of disability, age, or education. Inclusive design strives to make products accessible to everyone.
+
+7. **Usability Goals**  
+   Objectives that define how effective, efficient, and satisfying a product is to use. Includes criteria like effectiveness, efficiency, safety, utility, learnability, memorability, and satisfaction.
+
+8. **User Experience (UX) Goals**  
+   Goals that focus on how a product feels to a user, covering a range of emotions and subjective experiences. It includes aspects like fun, excitement, engagement, and emotional fulfillment.
+
+9. **Visibility**  
+   A design principle referring to how clearly an interface shows users what to do next. Effective visibility allows users to easily understand what actions are possible.
+
+10. **Feedback**  
+    Providing users with information about what action has been done and what has been accomplished, allowing them to understand the current state and what to do next.
+
+11. **Constraints**  
+    Design elements that limit the way users interact with a product, guiding them towards correct actions and preventing mistakes.
+
+12. **Consistency**  
+    Ensuring that similar actions are carried out in similar ways across an interface, making the product easier to learn and use.
+
+13. **Affordance**  
+    Attributes of an object that make it clear how it can be used. In interaction design, it refers to designing elements that naturally indicate their use, such as buttons that look "clickable."
+
+14. **Human-Computer Interaction (HCI)**  
+    A discipline focused on the design and use of computer technology, especially regarding how users interact with computers and other digital systems.
+
+15. **Prototyping**  
+    Creating a simplified version of a product to explore ideas and gather feedback. It helps in evaluating design feasibility and ensuring stakeholders understand the design.
+
+16. **A/B Testing**  
+    A method for comparing two versions of a design by deploying them to users and measuring performance. Often used to decide between alternative designs based on real-world data.
+
+17. **Dark Patterns**  
+    Deceptive design elements that trick users into taking actions they might not want to. Often used for financial gain, these undermine trust and provide a negative user experience.
+
+18. **Customer Experience (CX)**  
+    Refers to all interactions a person has with a company, including their overall satisfaction and likelihood of recommending the product or service to others. UX is a part of CX, but CX also covers broader aspects.
+
+19. **Microinteractions**  
+    Small, focused design elements that add to the overall user experience, such as the feedback from a button press or the way notifications appear. They can greatly influence satisfaction.
+
+20. **User-Centered Design**  
+    An approach that focuses on the needs, wants, and limitations of end-users at every stage of the design process. It's similar to people-centered design but often refers specifically to individual product usage.
+
+21. **Flow**  
+    A state of optimal experience where the user is fully engaged and immersed in an activity, often characterized by a feeling of energized focus and enjoyment.
+
