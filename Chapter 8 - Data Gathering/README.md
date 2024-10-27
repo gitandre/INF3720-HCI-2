@@ -364,36 +364,41 @@ Skipped
 **Quotes & Attributions**:
 - **Kjeldskov and Skov (2014)**: Emphasized that deciding between wild or lab studies depends on the research goals, and both have merits. They suggest considering long-term in-the-wild studies for more comprehensive insights.
 
-#### **8.6.1 Direct Observation in the Wild 🌿👀**
+#### **8.6.1 Direct Observation in the Wild 🕵️‍♂️🌍**
 
-- **Why Use Observation in the Wild?**:
-  - Helps to capture real user behavior and details that can’t be easily explained through interviews or questionnaires 🤔✍️.
-  - Provides context to understand *why* activities happen as they do 🧠🔍.
+- **Why Observation in the Wild?**:
+  - Helps capture *real behaviors* and nuances not easily explained in interviews or questionnaires 🗣️📋.
+  - Shows how people use technology in natural settings, providing richer context 🖼️✨.
 
 - **Challenges**:
-  - Observing in the wild can be complicated, with lots of data that might be tedious to analyze 🌀📊.
-  - Requires a clear goal for the session, but be ready to adapt as circumstances change 🎯🔄.
+  - Gathering lots of data that can be *tedious to analyze* and not always relevant 🌀📊.
+  - Requires a clear goal but flexibility to adapt if unexpected situations arise 🎯🔄.
 
-- **Structuring Frameworks for Observation**:
-  - **Simple Framework (Person, Place, Thing)**:
-    - *Person*: Who is using the tech? 👤
-    - *Place*: Where are they using it? 📍
-    - *Thing*: What are they doing with it? 📱
-  - **Detailed Framework (Robson & McCarten, 2016)**:
-    - **Space**: What’s the physical space like? 🏠
-    - **Actors**: Who are the people involved? 👫
-    - **Activities**: What are they doing, and why? 🤹
-    - **Objects**: What objects are present, including technology? 🪑💻
-    - **Acts**: What specific actions are being taken? 🖋️
-    - **Events**: Is it part of a special event? 🎉
-    - **Time**: What is the sequence of events? ⏳
-    - **Goals**: What are they trying to achieve? 🏆
-    - **Feelings**: What’s the mood like? 😊😟
+- **Simple Framework for Observation**:
+  - **The Person**: Who is using the tech? 👤
+  - **The Place**: Where are they using it? 🏠
+  - **The Thing**: What are they doing with it? 📱
 
-- **Tips for Effective Observation**:
-  - Use frameworks to maintain focus on what matters, and be flexible enough to adapt as you learn more 💡.
-  - Being an experienced observer means balancing your set goals with openness to new insights gained during observation ⚖️.
+- **Detailed Framework for In-Depth Observation (Robson & McCarten, 2016)**:
+  - **Space**: Physical environment and layout 📏
+  - **Actors**: People involved and their details 👥
+  - **Activities**: What they are doing and why 🎬
+  - **Objects**: What physical objects are around? 🛋️
+  - **Acts**: Specific actions taken 📌
+  - **Events**: Is this part of a special event? 🎉
+  - **Time**: Sequence of actions ⏳
+  - **Goals**: What are they trying to achieve? 🏆
+  - **Feelings**: Mood of individuals or group 😊😠
+
+- **Degree of Participation**:
+  - **Passive Observer**: Watches without intervening, suitable for lab studies 🧑‍💻.
+  - **Participant Observer**: Becomes part of the group, balancing between participation and observation 🤝.
+
+- **Benefits of Team Observation**:
+  - **Coverage**: Each observer focuses on different aspects, covering more ground 🗺️.
+  - **Reliability**: More observers mean more reliable data and diverse perspectives 🔍👥.
+  - **Reflection**: Easier to interweave observation and reflection 🔄.
 
 **Quotes & Attributions**:
-- **Robson & McCarten (2016)**: Highlighted the use of structured frameworks to observe interactions more effectively, focusing on multiple aspects like space, actors, and goals to gather comprehensive insights.
+- **Robson & McCarten (2016)**: Emphasized the importance of structured frameworks for observation to maintain focus, while also allowing the observer to adapt as new insights emerge.
 
