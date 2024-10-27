@@ -1,34 +1,12 @@
 ## Chapter 6: Emotional Interaction
 
-6.1 Introduction
-
+6.1 Introduction  
 6.2 Emotions and Behavior  
-
-6.3 Expressive Interfaces: Aesthetic or Annoying?
-
+6.3 Expressive Interfaces: Aesthetic or Annoying?  
 6.4 Affective Computing and Emotional AI  
-- 6.4.1 Measuring and Tracking Affect and Emotions  
-  - 6.4.1.1 Techniques for Emotion Sensing  
-  - 6.4.1.2 Facial Coding and Affectiva Software  
-  - 6.4.1.3 Box 6.2: ASMR and Food Videos  
-- 6.4.2 Tracking and Reflecting on Moods  
-  - 6.4.2.1 Mood Tracker Apps  
-  - 6.4.2.2 Virtual Reality and Mood Exploration  
-  - 6.4.2.3 Box 6.3: Ethical Concerns of Emotional Tracking
-
 6.5 Persuasive Technologies and Behavioral Change  
-- 6.5.1 Types of Persuasive Technologies  
-- 6.5.2 Positive Reinforcement in Devices  
-- 6.5.3 Nudging Behavior Towards Sustainability  
-  - 6.5.3.1 Box 6.4: Using Social Norms for Energy Reduction  
-- 6.5.4 Tidy Street Experiment: Public Energy Visualization  
-- 6.5.5 Activity 6.4: Fun Theory and Behavior Change
+6.6 Anthropomorphism    
 
-6.6 Anthropomorphism  
-- 6.6.1 Designing Human-Like Qualities in Objects  
-- 6.6.2 Social Robots in Caregiving  
-- 6.6.3 Activity 6.5: Evaluating Soft vs. Hard Robot Pets  
-- 6.6.4 Box 6.5: Example of Stevie, the Social Robot  
 
 ---
 ### **6.1 Introduction Summary**:
@@ -121,8 +99,6 @@ This model provides a useful framework for thinking about **designing interactiv
 ### **Platchick's Wheel of Emotions** 🎮🧠
 
 ![Platchicks Wheel of Emotions](platchicks_wheel_of_emotions.png)
-
-Certainly! Let's dive deeper into **Plutchik's Wheel of Emotions** and understand its significance and application in emotional design:
 
 ### **Plutchik's Wheel of Emotions** 🎡💛💬
 **Plutchik's Wheel of Emotions** is a psychological model developed by **Robert Plutchik** in 1980, designed to illustrate how human emotions are related to each other and how they vary in intensity. The wheel represents a **visual framework** that categorizes emotions, illustrating both their **interconnectedness** and **intensity levels**. It's widely used in psychology, interaction design, and user experience (UX) design to understand and map out **emotional responses**.
