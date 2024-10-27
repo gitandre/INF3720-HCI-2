@@ -308,6 +308,12 @@ Skipped
 **Quotes & Attributions**:
 - **James Lewis & Oğuzhan Erdinç (2017)**: Found no difference in reliability, validity, and sensitivity between 7-point, 11-point, and 101-point scales.
 
+![radio_buttons.png](radio_buttons.png)
+
+![likert_scale.png](likert_scale.png)
+
+![semantic_differential_scale.png](semantic_differential_scale.png)
+
 ### **8.5.3 Administering Questionnaires 📋📊**
 
 - **Participant Sampling**:
@@ -402,7 +408,7 @@ Skipped
 **Quotes & Attributions**:
 - **Robson & McCarten (2016)**: Emphasized the importance of structured frameworks for observation to maintain focus, while also allowing the observer to adapt as new insights emerge.
 
-Here’s a summarized list format with emojis for the given section:
+![structuring_frameworks_for_observation_in_the_wild.png](structuring_frameworks_for_observation_in_the_wild.png)
 
 #### 8.6.2 Direct Observation in Controlled Environments 🧪👀
 
@@ -484,6 +490,8 @@ Here’s a summarized version with emojis for the given section:
 - **Robert Yin (2018)**: Emphasized that case studies are best for answering "how" and "why" questions, integrating multiple perspectives, and analyzing events in context.
 - **Jonathan Lazar et al. (2017)**: Identified four reasons for using case studies in HCI: exploration, explanation, description, and demonstration.
 
+![chhose_a_technique1.png](chhose_a_technique1.png)
+![chose_a_technique2.png](chose_a_technique2.png)
 #### 8.7.2 Adapting Techniques for Different Participants 🛠️👥
 
 - **Adapting Data Gathering Techniques**:
@@ -529,6 +537,8 @@ Here’s a summarized version with emojis for the given section:
 
 **Quotes & Attributions**:
 - **Angela Mastrianni et al. (2021)**: Shared insights on transitioning to remote user-centered design activities, including best practices for interacting with participants and managing technical issues effectively.
+
+![remote_data_gathering_best_practices.png](remote_data_gathering_best_practices.png)
 
 ---
 
