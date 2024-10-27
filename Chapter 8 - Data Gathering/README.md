@@ -124,3 +124,69 @@ Skipped
 
 **Quotes & Attributions**:
 - **Nassauer and Legewie (2022); Heath et al. (2010)**: Discussed considerations for choosing cameras, placement, and settings, emphasizing the importance of understanding context and participant behavior during video recording.
+
+---
+
+### **8.4 Interviews 🎙️**:
+
+#### **8.4.1 Unstructured Interviews 🎙️**:
+
+- **Exploratory Approach**: Unstructured interviews are like conversations, providing open-ended exploration rather than strict question-answer sequences 🌊.
+- **Freedom in Answers**: Questions are open, allowing interviewees to answer in detail or briefly, based on their comfort and insight 💬.
+- **Interviewer’s Role**:
+  - Uses **probes** to delve deeper (e.g., "Can you tell me more about...?") 🕵️‍♂️.
+  - Needs a **plan** to ensure all important topics are covered but remains flexible to explore unexpected areas 📑.
+- **Rich & Complex Data**: Generates detailed and interconnected information, offering deep insights into the topic 🧠✨.
+- **Time-Consuming Analysis**: The open nature means interviews differ greatly between participants, leading to longer analysis times ⏳.
+- **Unique Insights**: Often surfaces issues not initially considered by the interviewer, offering fresh perspectives 🌱.
+
+**Quotes & Attributions**:
+- **Grounded Theory & Other Analytic Approaches (Chapter 9)**: Techniques from grounded theory are used to identify themes across interviews and interpret the complex data produced in unstructured formats.
+
+
+#### **8.4.2 Structured Interviews 📝**:
+
+- **Predetermined Questions**: Interviewer asks **prewritten questions**, similar to a questionnaire format, to ensure consistency 📋.
+- **Standardization**: The same questions are asked to every participant, making the study results **comparable and standardized** 📊.
+- **Closed Questions**: Typically uses **closed questions**, with answers from a **set of alternatives** (e.g., multiple-choice or Yes/No) to gather focused data 🎯.
+  - Examples: "Which app do you use most frequently: Prime Video, GoogleTV, or Netflix?" 📱.
+- **Clear & Concise**: Questions are designed to be **short and clearly worded** for efficient communication 💬.
+- **Specific Goals**: Best used when research goals are **well understood** and specific insights are targeted 🎯.
+- **Consistent Wording & Order**: Questions are **asked in the same way and order** to all participants for consistency 🔁.
+
+**Quotes & Attributions**:
+- **Section 8.5**: For more information on designing questions for structured interviews, refer to the "Questionnaires" section to understand formatting techniques and consistency requirements.
+
+
+#### **8.4.3 Semi-Structured Interviews 🎤📝**
+
+- **Combination of Structured & Unstructured**: Uses a mix of **structured questions** (like in surveys) and **open-ended questions** to allow deeper exploration 🌐.
+- **Basic Script for Guidance**: Interviewer follows a **basic script** to ensure all key topics are covered, while still leaving room for flexibility 🚦.
+- **Preplanned Questions + Probing**: Starts with **prepared questions**, then **probes** for further details until no new information is provided 🔍.
+  - Example: "Which music websites do you visit?" ➡️ Probing deeper into reasons and layout preferences 🎶.
+- **Avoiding Bias**: Questions must be **neutral** and **non-leading** to avoid pre-empting answers, especially important with children 🤐🧒.
+- **Body Language Matters**: Interviewer’s **body language** (e.g., smiling, scowling) can impact how the interviewee responds, hence should be neutral 🤷‍♀️.
+- **Use of Probes**: Neutral probes like "**Do you want to tell me anything else?**" and **prompts** are used to gain more details without introducing bias 📌.
+
+**Quotes & Attributions**:
+- **Section 8.4.5**: For more techniques on avoiding biases in interviews, refer to the "Planning and Conducting an Interview" section, which provides deeper insights into effective interview practices.
+
+#### **8.4.4 Focus Groups 💬👥**
+
+- **Group Interviews**: Unlike one-on-one interviews, focus groups involve **3-10 people**, led by a **trained facilitator** 👨‍🏫👩‍🏫.
+- **Participant Selection**: Participants are chosen to represent a **diverse sample** of the target population. For example, administrators, faculty, and students could form different focus groups for a campus map evaluation 🎓📍.
+- **Benefits**:
+  - **Diverse Viewpoints**: Great for capturing multiple perspectives and shared issues, which might be missed in individual interviews 🌍🔍.
+  - **Flexibility**: The facilitator can follow **unexpected topics** as they come up while keeping a **preset agenda** 📋.
+- **Facilitator Role**: Facilitator manages the discussion, **encourages quieter participants**, and **controls dominating voices** to ensure everyone is heard 🤐🔊.
+- **Challenges**:
+  - **Careful Facilitation Needed**: It can be easy to stray off-topic, requiring skillful moderation 🛑🗣️.
+  - **Groupthink**: Risk of people agreeing with dominant voices instead of providing **individual insights** 🧠➡️🧠.
+- **Examples**:
+  - **Smart Home Study**: Abir Ghorayeb et al. (2021) held focus groups in a **smart home setting** to bring in real-world examples of technology use 🏠🤖.
+  - **Kenyan "Talking Circle"**: Elizabeth Warrick et al. (2016) used a **traditional Kenyan talking circle** approach for focus groups to respect the cultural practices of elders speaking in turn 🌀🗣️.
+
+**Quotes & Attributions**:
+- **Nielsen (1997)**: Warned that focus groups should not be the sole source of information for understanding user behavior.
+- **Unger and Chandler (2012)**: Highlighted that focus groups are effective for surfacing multiple user stories in collaborative processes.
+
