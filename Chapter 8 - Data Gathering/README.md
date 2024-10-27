@@ -190,3 +190,75 @@ Skipped
 - **Nielsen (1997)**: Warned that focus groups should not be the sole source of information for understanding user behavior.
 - **Unger and Chandler (2012)**: Highlighted that focus groups are effective for surfacing multiple user stories in collaborative processes.
 
+#### **8.4.5 Planning and Conducting an Interview 📝🎤**
+
+- **Interview Planning**:
+  - Prepare **questions/topics** and collate **documentation** (e.g., consent forms) 🗂️.
+  - Test **recording equipment** and schedule the interview time and place ⏱️🎥.
+  - If in-person, bring **snacks and drinks** to create a relaxed atmosphere ☕🍪.
+
+- **Guidelines for Developing Questions**:
+  - **Short Questions**: Avoid long or compound questions; break them into simpler parts 🗣️➡️❓.
+  - **Avoid Jargon**: Use **simple language** to ensure interviewees understand 🧠🔍.
+  - **Keep Questions Neutral**: Don’t assume a particular answer; ask open-ended, unbiased questions ⚖️❔.
+
+- **Interview Structure**:
+  - **Introduction**: Introduce yourself and explain the purpose of the interview 👋🎯.
+  - **Warm-Up**: Start with simple questions (e.g., demographic info) to make the interviewee comfortable 🌞.
+  - **Main Session**: Ask the main questions, with more complex ones towards the end 🛤️.
+  - **Cooling-Off**: Wrap up with easy questions to wind down ❄️.
+  - **Closing**: Thank the interviewee and end any recordings ✨🙏.
+
+- **Examples and Activities**:
+  - **Goal Definition**: Understand the **appeal of devices** to young people aged 14-16 📚🧒👧.
+  - **Suggested Questions**:
+    - Why do you like using an ebook reader? 📖🤔
+    - Have you used similar devices before? Yes/No ❓✅❌.
+  - Use **audio recording** for less distraction, supplemented with photos for clarity 🎙️📸.
+
+**Quotes & Attributions**:
+- **Robson and McCartan (2016)**: Provided guidelines for planning interviews, emphasizing simplicity, neutrality, and good structure.
+
+#### **8.4.6 Doing Interviews Remotely 💻📞**
+
+- **Advantages of Remote Interviews**:
+  - Participants are in **familiar environments** and feel more relaxed 🏠😌.
+  - No need to **travel** or worry about health and safety 🚗🛡️.
+  - Less concern about **appearance** since they're at home 👕🎽.
+  - **Sensitive topics** can be easier to discuss, especially with audio-only calls 🎙️🙊.
+  - Participants have the freedom to **leave anytime** if they feel uncomfortable 🚪👋.
+
+- **Disadvantages of Remote Interviews**:
+  - Lack of visibility for **body language**, making it harder to gauge responses 🤷‍♂️👀.
+  - Participants may be more tempted to **multitask** instead of focusing 🖥️📱.
+
+- **Tips for Conducting Remote Interviews**:
+  - **Technology Check**: Ensure participants have the right equipment and knowledge for video/audio calls 💻🔧.
+  - **Building Rapport**: Making a connection can be harder remotely, especially if participants don't know you beforehand 🤝💬.
+  - **Environmental Challenges**: Beware of **distractions** or other people appearing in the background, which could breach data protection ⚠️🚪.
+
+- **Remote Focus Group Challenges**:
+  - Manage participation with several people effectively 👥🗣️.
+  - Combine tools like **Zoom** or **Teams** with collaborative activities like **brainstorming** or **mindmapping** using tools like **Miro**, **Mural**, or **Jamboard** 🧠📊.
+
+**Quotes & Attributions**:
+- **UX Booth**: Discusses remote user interview techniques, emphasizing the importance of building rapport and managing technology challenges effectively.
+
+
+#### **8.4.7 Enriching the Interview Experience 🎨💬**
+
+- **Using Artifacts as Props**:
+  - Using **personas**, **prototypes**, or **scenarios** helps make the discussion more tangible and relatable 🖼️👥.
+  - Props provide a **contextual focus** for participants, grounding their responses in practical examples 🛠️.
+
+- **Virtual Prototypes for Remote Interviews**:
+  - **Almohannad Albastaki et al. (2020)** used a virtual prototype to explore robotic expressions in an urban setting 🌌🤖.
+  - Participants were asked to navigate a **virtual alleyway at night** while using "think-aloud" methods 🌃🗣️.
+  - Results showed that **virtual prototypes** can achieve **ecological validity**, meaning they provide realistic results comparable to physical settings 🧪✅.
+  - Videoconferencing to record sessions helped minimize the **equipment needed** for capturing data, making the process more efficient 🎥💻.
+
+**Quotes & Attributions**:
+- **Almohannad Albastaki et al. (2020)**: Explored the effectiveness of virtual experience prototypes, concluding that they offer valid insights and reduced equipment requirements for remote evaluations.
+
+---
+
