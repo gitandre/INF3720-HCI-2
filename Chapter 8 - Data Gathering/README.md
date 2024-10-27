@@ -262,3 +262,138 @@ Skipped
 
 ---
 
+### **8.5 Questionnaires 🎙️**:
+
+#### **8.5.1 Questionnaire Structure 📝📊**
+
+- **Start with Demographic Info**:
+  - Gather details like **gender, age, and experience** to give context to responses 🎯👥.
+  - Relevant background can explain different perspectives (e.g., novice vs. experienced users) 🔄.
+
+- **Organizing Questions**:
+  - Begin with demographic questions, then move to questions about the study's goals 🗂️➡️.
+  - Related topics should be grouped together for **logical flow** 🧩.
+
+- **Questionnaire Design Tips**:
+  - Order of questions matters—**previous questions can influence responses** to following ones 🔄.
+  - Tailor versions for **different populations** if necessary 👥📝.
+  - Provide **clear instructions** on how to answer and complete the questionnaire ✅✍️.
+  - Avoid unnecessary questions to keep it **concise and focused** ✂️.
+  - For long questionnaires, allow respondents to **opt out** in stages to reduce dropout 📉🚪.
+  - Balance **layout and pacing** with effective use of space—compact but not overwhelming 📏.
+
+**Quotes & Attributions**:
+- **General Advice**: Clear instructions, logical flow, and effective pacing are key to successful questionnaires.
+
+#### **8.5.2 Question and Response Format 📝🔍**
+
+- **Closed-Ended Questions**:
+  - Use predetermined answers (e.g., multiple choice, “none of these”) for easy analysis and response clarity 🗂️✔️.
+  - Include "no opinion" or “other” options where applicable to keep responses unbiased 🚫🤔.
+
+- **Ranges and Predefined Lists**:
+  - Use ranges for predictable responses like age or nationality 🌍🔢.
+  - Be careful of overlapping ranges—e.g., **15-19** and **20-24** to avoid confusion 🔄.
+  - Ranges don't always need to be equal; tailor them to the study goals (e.g., younger adults or generational analysis) 🎯.
+
+- **Rating Scales**:
+  - **Likert Scale**: Used to measure opinions with statements like "Strongly Agree to Strongly Disagree" 👍👎.
+  - **Semantic Differential Scale**: Measures bipolar attitudes using pairs like "Attractive vs. Ugly" 😍🤢.
+  - The number of points on a scale can vary (e.g., 3, 5, 7, or more), depending on how fine the discrimination needs to be. Odd numbers allow a central "neutral" point, while even forces a decision 🗳️.
+
+- **Tips on Designing Rating Scales**:
+  - Choose the scale length based on how nuanced you need the responses to be (e.g., **3-point for simple**, **7-point for judgments**, **longer for subtle differences**) 📏.
+  - **James Lewis and Oğuzhan Erdinç (2017)** found no major differences in reliability between 7-point, 11-point, or 101-point scales. Use the scale that fits your need best without overwhelming respondents 🎚️.
+
+**Quotes & Attributions**:
+- **James Lewis & Oğuzhan Erdinç (2017)**: Found no difference in reliability, validity, and sensitivity between 7-point, 11-point, and 101-point scales.
+
+### **8.5.3 Administering Questionnaires 📋📊**
+
+- **Participant Sampling**:
+  - Small samples (less than 20) often achieve full response rates 📈.
+  - Larger surveys may require sampling techniques to reach a broader audience 🌐.
+
+- **Questionnaire Formats**:
+  - **Paper Questionnaires**: Still useful in specific contexts, e.g., public places 📝.
+  - **Online Questionnaires**: Most popular; allow interactive features like checkboxes, drop-down menus, and automatic data validation 💻✔️.
+
+- **Response Rates & Incentives**:
+  - High return rates (~40%) are often seen as acceptable; incentives may be needed for larger samples to ensure engagement 🎁.
+
+- **Designing & Deploying Online Questionnaires**:
+  1. **Plan Timeline**: Work backward from the deadline to ensure all steps are completed on time ⏳📅.
+  2. **Offline Design**: Create in plain text for easy transfer to online tools ✍️➡️🖥️.
+  3. **Program the Survey**: Complexity affects the time needed (e.g., multiple paths or interactions) 🤖.
+  4. **Test the Survey**: Ensure proper behavior and get feedback from content experts and potential respondents 🧪👥.
+  5. **Recruit Respondents**: Make invitations appealing, simple, and respectful to encourage participation 📢✨.
+
+- **Segmentation**:
+  - Allows respondents to skip irrelevant questions, reducing frustration and increasing data quality ✂️❓.
+  
+**Quotes & Attributions**:
+- **Toepoel (2016)**: Emphasizes the value of properly planning, designing, and testing surveys to ensure quality responses.
+
+---
+
+### **8.6 Observation 👀📊**
+
+- **Purpose of Observation**:
+  - Useful throughout product development: early on to understand user context and later to evaluate prototypes ⚙️📝.
+  
+- **Types of Observation**:
+  - **Direct Observation**: Watching users perform activities in real-time 👥.
+  - **Indirect Observation**: Reviewing records of activities afterward 📄.
+
+- **Settings for Observation**:
+  - **In the Wild**: Observing people in their natural environment to see genuine behaviors and context 🌍🏞️.
+  - **Controlled Environment**: Conducting observations in a lab to control variables and capture detailed interactions 🧪🏢.
+
+- **Scenario Comparisons**:
+  - **In the Wild**:
+    - 👍 **Advantages**: Real-life context; provides insight into natural user behaviors and practical challenges.
+    - 👎 **Disadvantages**: Subjectivity from observer involvement; qualitative data that’s hard to replicate.
+  - **Controlled Environment**:
+    - 👍 **Advantages**: Replicable; can identify specific usability issues and compare multiple participants’ performance.
+    - 👎 **Disadvantages**: Artificial setting may not reflect real-world usage accurately 🌐⚠️.
+
+- **Use Cases**:
+  - **Lab Studies**: Ideal for detailed usability testing to find interface issues 🔍.
+  - **In the Wild**: Best for understanding how a product fits into users’ daily lives and impacts their behavior 🚶‍♂️📱.
+
+**Quotes & Attributions**:
+- **Kjeldskov and Skov (2014)**: Emphasized that deciding between wild or lab studies depends on the research goals, and both have merits. They suggest considering long-term in-the-wild studies for more comprehensive insights.
+
+#### **8.6.1 Direct Observation in the Wild 🌿👀**
+
+- **Why Use Observation in the Wild?**:
+  - Helps to capture real user behavior and details that can’t be easily explained through interviews or questionnaires 🤔✍️.
+  - Provides context to understand *why* activities happen as they do 🧠🔍.
+
+- **Challenges**:
+  - Observing in the wild can be complicated, with lots of data that might be tedious to analyze 🌀📊.
+  - Requires a clear goal for the session, but be ready to adapt as circumstances change 🎯🔄.
+
+- **Structuring Frameworks for Observation**:
+  - **Simple Framework (Person, Place, Thing)**:
+    - *Person*: Who is using the tech? 👤
+    - *Place*: Where are they using it? 📍
+    - *Thing*: What are they doing with it? 📱
+  - **Detailed Framework (Robson & McCarten, 2016)**:
+    - **Space**: What’s the physical space like? 🏠
+    - **Actors**: Who are the people involved? 👫
+    - **Activities**: What are they doing, and why? 🤹
+    - **Objects**: What objects are present, including technology? 🪑💻
+    - **Acts**: What specific actions are being taken? 🖋️
+    - **Events**: Is it part of a special event? 🎉
+    - **Time**: What is the sequence of events? ⏳
+    - **Goals**: What are they trying to achieve? 🏆
+    - **Feelings**: What’s the mood like? 😊😟
+
+- **Tips for Effective Observation**:
+  - Use frameworks to maintain focus on what matters, and be flexible enough to adapt as you learn more 💡.
+  - Being an experienced observer means balancing your set goals with openness to new insights gained during observation ⚖️.
+
+**Quotes & Attributions**:
+- **Robson & McCarten (2016)**: Highlighted the use of structured frameworks to observe interactions more effectively, focusing on multiple aspects like space, actors, and goals to gather comprehensive insights.
+
