@@ -558,3 +558,81 @@ Here’s a summarized version with emojis for the given section:
 - **Chapter Summary**: Highlights key aspects of gathering data, including goals, methods, recording techniques, and managing participant relationships.
 
 ---
+
+### **Glossary for Chapter 8: Data Gathering**
+
+**1. Data Gathering** 📊  
+The process of collecting information to achieve specific research goals. It includes methods like interviews, questionnaires, and observation.
+
+**2. Goal Setting** 🎯  
+Defining clear objectives for data collection that guide what data is gathered and how it will be used.
+
+**3. Identifying Participants** 👥  
+The process of selecting individuals who will provide data for the study, often chosen based on research goals and target demographics.
+
+**4. Relationship with Participants** 🤝  
+Building a professional rapport and ensuring participants understand their role, rights, and how their data will be used during the study.
+
+**5. Informed Consent** 📝  
+Permission obtained from participants after explaining the study's purpose, procedures, and their rights, ensuring ethical participation.
+
+**6. Triangulation** 📐  
+Using multiple data sources, researchers, or methods to validate findings and increase reliability.
+
+**7. Pilot Studies** 🧪  
+Trial runs of the study conducted to test and refine data collection methods, instruments, and overall feasibility.
+
+**8. Direct Observation** 👀  
+Collecting data by watching participants in their natural setting or in a controlled environment to understand their behaviors.
+
+**9. Observation in the Wild** 🌍  
+A type of direct observation conducted in a participant's natural environment to gather real-life context and behaviors.
+
+**10. Controlled Environment Observation** 🧪  
+Observation performed in a structured, lab-like setting where variables can be controlled, allowing for focused insights on specific tasks.
+
+**11. Indirect Observation** 🔍  
+Gathering data through methods like diaries or logs, where researchers are not directly observing participants in real-time.
+
+**12. Think-Aloud Technique** 🗣️  
+A method used during observation where participants verbalize their thought process, allowing researchers to understand their reasoning and decision-making.
+
+**13. Constructive Interaction** 👥💬  
+An observation technique where participants work together, discussing their actions, providing a more natural flow of interaction data.
+
+**14. Structured Interviews** 📝  
+Interviews with predetermined questions that are consistently asked to every participant to gather comparable data.
+
+**15. Unstructured Interviews** 🌊  
+Free-form interviews where questions are more open-ended, allowing participants to guide the conversation and provide deeper insights.
+
+**16. Semi-Structured Interviews** 🎤📝  
+Interviews combining structured questions with open-ended prompts to explore topics more flexibly.
+
+**17. Focus Groups** 💬👥  
+Group discussions led by a facilitator to gather multiple perspectives and explore consensus or conflict on specific topics.
+
+**18. Questionnaire** 📋  
+A data gathering tool used to collect information from participants, typically consisting of structured questions that can be administered online, on paper, or via email.
+
+**19. Likert Scale** 👍👎  
+A rating scale used to measure attitudes or opinions, often ranging from 'strongly agree' to 'strongly disagree.'
+
+**20. Semantic Differential Scale** 😊🤢  
+A scale used to measure attitudes by asking participants to choose between two opposite adjectives (e.g., 'attractive' vs. 'ugly').
+
+**21. Experience Sampling Method (ESM)** 📲  
+A technique where participants are prompted at random times to provide immediate data on their experiences or feelings.
+
+**22. Remote Data Gathering** 🌐📊  
+Collecting data from participants who are not physically present, often using online tools or video conferencing, allowing for a broader participant base.
+
+**23. Wearable Technology in Studies** 📡🐾  
+Using wearable devices, like GPS trackers, to collect data on user behavior, commonly applied in studies involving animals or human health monitoring.
+
+**24. Ethical Considerations** 🛡️  
+Ensuring participants' privacy, confidentiality, and informed consent during the data collection process, following regulations like GDPR.
+
+**25. Data Storage** 🔒  
+The methods used to securely store participants' information, maintaining confidentiality and complying with legal requirements.
+
