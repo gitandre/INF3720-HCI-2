@@ -1,4 +1,4 @@
-# C#hapter 8 - Data Gathering
+# Chapter 8 - Data Gathering
 
 ### 8.1 Introduction
 
@@ -44,7 +44,7 @@
 
 Skipped 
 
-###  Six Key Issues for Data Gathering**
+### 8.2 Six Key Issues for Data Gathering**
 
 #### 1. **Setting Goals 🎯**  
    - Define clear goals to guide the data gathering, analysis, and sessions. Goals can vary from measuring a user interface's effectiveness to understanding user reactions to new technology.  
