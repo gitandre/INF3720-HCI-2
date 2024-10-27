@@ -417,3 +417,144 @@ Here’s a summarized list format with emojis for the given section:
 - **Miyake (1986)**: Introduced constructive interaction as a less intrusive alternative to think-aloud protocols.
 - **Clemmensen et al. (2008)**: Highlighted cultural influences on verbalization during think-aloud sessions.
 
+Here’s a summarized version with emojis for the given section:
+
+#### 8.6.3 Indirect Observation: Tracking Users’ Activities 📊👀
+
+- **When Direct Observation Isn’t Possible**: Use diaries and interaction logs to collect data when direct observation is not feasible or would be too intrusive. 📚💻
+- **Diaries as Data Collection**:
+  - **Participant Records**: Participants keep track of what they do, how they feel, and the challenges they face. 📖✍️
+  - **Real Life Example**: Junchao Lin et al. (2020) conducted a 30-day diary study on couples sharing digital accounts, finding both the benefits of shared routines and the drawbacks of unintended information sharing. ❤️🔐
+  - **Self-Care Study**: Caroline Claisse et al. (2022) used paper diaries to study self-care practices of adults living with HIV, highlighting how diary routines became part of care practices. 📝✨
+  - **Challenges**: Diaries can be unreliable if participants forget or lose motivation; incentives and reminders may be needed. 🎁⏰
+- **Experience Sampling Method (ESM)**:
+  - **Prompting Participants**: Unlike traditional diaries, ESM prompts participants at random times for immediate feedback (e.g., Mintra Ruensuk et al. (2022) used ESM to understand Instagram users’ emotions). 📲😊😟
+- **Interaction Logs**:
+  - **Activity Tracking**: Interaction logging software captures data like key presses, mouse movements, and session times—allowing deep quantitative analysis. 🖱️📈
+- **Web Analytics & Data Scraping**:
+  - **Online Behavior Insights**: Analyzing online trails, such as Twitter discussions, provides insights into public reactions, although ethical concerns about privacy can arise. 🌐🔍
+
+**Quotes & Attributions**:
+- **Junchao Lin et al. (2020)**: Conducted a diary study on couples sharing digital accounts, highlighting both the benefits and drawbacks of shared digital spaces.
+- **Caroline Claisse et al. (2022)**: Explored self-care through diaries with adults living with HIV, emphasizing the role of mundane practices in empowering patient care.
+- **Mintra Ruensuk et al. (2022)**: Used ESM to capture emotional states of Instagram users immediately after app use.
+
+---
+
+### 8.7 Putting the Techniques to Work 
+
+#### 8.7.1 Choosing Techniques 🛠️🔍
+
+- **Choosing Techniques Depends on Study Goals**:
+  - Different techniques gather different types of data—quantitative, qualitative, or a mix. 📊📋
+  - The chosen technique should fit the study goals, participants, available resources, and whether data collection will be remote or face-to-face. 🌐👥
+  
+- **Overview of Data Gathering Techniques**:
+  - **Interviews**:
+    - Best for exploring issues in depth.
+    - Mostly qualitative, some quantitative.
+    - Direct contact helps understand participants, but it can be intimidating in artificial settings. 👥💬
+  
+  - **Focus Groups**:
+    - Useful for gathering multiple viewpoints.
+    - Mainly qualitative data.
+    - Encourages discussion but may suffer from “groupthink” or dominant voices. 🗣️🤝
+  
+  - **Questionnaires**:
+    - Good for answering specific questions with fewer resources.
+    - Collects both quantitative and qualitative data.
+    - Can reach many people, but response rates might be low. 📄🖊️
+  
+  - **Direct Observation in the Wild**:
+    - Understands the natural context of activities.
+    - Mostly qualitative.
+    - Provides deep insights but requires time and results in large volumes of data. 🌿👀
+  
+  - **Direct Observation in Controlled Environments**:
+    - Captures task details in a structured setting.
+    - Both quantitative and qualitative data.
+    - Results may be less applicable to real-world scenarios due to artificial conditions. 🧪📹
+  
+  - **Indirect Observation**:
+    - Involves logs or diaries.
+    - Mix of qualitative (diary) and quantitative (logging) data.
+    - Less intrusive, but logs require tool support, and diary entries can be biased. 📈📖
+
+**Quotes & Attributions**:
+- **Robert Yin (2018)**: Emphasized that case studies are best for answering "how" and "why" questions, integrating multiple perspectives, and analyzing events in context.
+- **Jonathan Lazar et al. (2017)**: Identified four reasons for using case studies in HCI: exploration, explanation, description, and demonstration.
+
+#### 8.7.2 Adapting Techniques for Different Participants 🛠️👥
+
+- **Adapting Data Gathering Techniques**:
+  - Techniques must be adjusted to suit the participants' needs and study context. 🧩👥
+
+- **Child-Friendly Methods**:
+  - Children react differently than adults; visual aids like visual Likert scales help make things easier. 📊🖍️
+  - **Cynthia Putnam et al. (2020)** used visual Likert scales for 7-11-year-olds to make data gathering more accessible.
+
+- **Involving Caregivers**:
+  - For participants with intellectual disabilities, caregivers helped make abstract questions concrete and relatable. 🗣️❤️
+  - **Laurianne Sitbon & Shanjana Farhin (2017)** adapted their questions by involving familiar examples and caregiver assistance.
+
+- **Animal-Computer Interaction**:
+  - Studying animal interaction with technology requires adapting human-centered methods to interpret animal behaviors. 🐶🔍
+  - **Luisa Ruge & Clara Mancini (2019)** reinterpreted usability evaluation principles for mobility assistance dogs to understand animal interaction.
+
+- **Wearable Devices for Animals**:
+  - Wearable devices need careful design to avoid interfering with the natural behaviors of animals. 🐾📡
+  - **Patrizia Paci et al. (2017)** studied the wearability of GPS trackers on cats to ensure they didn't cause harm or discomfort.
+
+**Quotes & Attributions**:
+- **Cynthia Putnam et al. (2020)**: Created a visual Likert scale for children aged 7-11 to ease data gathering.
+- **Laurianne Sitbon & Shanjana Farhin (2017)**: Emphasized the role of caregivers in adapting questions for participants with intellectual disabilities.
+- **Luisa Ruge & Clara Mancini (2019)**: Adapted usability evaluation methods for animals in the context of Animal-Computer Interaction.
+- **Patrizia Paci et al. (2017)**: Developed methods to assess wearable GPS trackers on cats, ensuring no negative impact on their welfare.
+
+#### 8.7.3 Gathering Data Remotely 🌐📊
+
+- **Access to Diverse Participants**:
+  - Remote data gathering allows researchers to reach participants from different countries, age groups, or with different abilities. 🌍👥
+
+- **Adaptations for Remote Studies**:
+  - During COVID-19, many studies moved to remote data gathering, requiring adjustments like indirect observation through video recordings rather than direct real-time observation. 📹💡
+
+- **Best Practices for Remote UCD Activities**:
+  - **Angela Mastrianni et al. (2021)** shared their best practices for remote user-centered design in the emergency medical field, suggesting:
+    1. **Remote Access**: Establish access to as many systems as possible and include this in protocols. 🔒💻
+    2. **Pilot Tests**: Conduct pilot tests before real sessions to avoid issues. 🚧✅
+    3. **Backup Plans**: Have backup plans for potential technological failures. 📟🔄
+    4. **Participant Interaction**: Inform participants about technical requirements and use familiar technologies. 🗣️⚙️
+    5. **Researcher Roles**: Define roles within the research team clearly and introduce each member during the session. 👫👥
+
+**Quotes & Attributions**:
+- **Angela Mastrianni et al. (2021)**: Shared insights on transitioning to remote user-centered design activities, including best practices for interacting with participants and managing technical issues effectively.
+
+---
+
+### Summary of Chapter 8: Data Gathering 📊📝
+
+- **Key Issues in Data Gathering**:
+  - Goals, participant identification, relationship management, data storage, triangulation, and pilot studies. 🎯👥📦
+
+- **Planning & Execution**:
+  - Main techniques: **Interviews**, **Questionnaires**, **Observation**. Planning and capturing data was a critical part of the discussion. 📋🔍
+
+- **Key Points**:
+  - **Clear Goals**: All data gathering needs specific, well-defined goals. 🎯
+  - **Permissions**: Informed consent and permissions may be required based on study context. 📝✔️
+  - **Data Confidentiality**: Plan data storage carefully to protect participant confidentiality. 🔐
+  - **Pilot Studies**: Use pilot studies to test the feasibility of the data gathering instruments and approach. 🚀📝
+  - **Triangulation**: Investigate phenomena from different perspectives for more reliable results. 🔍🔄
+  - **Data Recording Methods**: Handwritten notes, audio/video recordings, and photographs. ✏️🎥📸
+  - **Types of Interviews**: Structured, semi-structured, unstructured. 🗣️
+  - **Questionnaires**: Can be online, email, or paper-based, with open or closed-ended questions. 📮💻📝
+  - **Observation Styles**: Direct vs. indirect observation; the observer can be a participant or passive. 👀👤
+  - **Technique Selection**: Choose methods based on study goals, participant types, technique specifics, and resource availability. 🎯🔧💡
+  - **Remote Data Gathering**: Useful for accessing diverse participants and can be adapted to different contexts. 🌐💻
+  - **Combining Techniques**: Often, multiple data gathering techniques are used together for thorough results. 🔄🔗
+
+**Quotes & Attributions**:
+- **Chapter Summary**: Highlights key aspects of gathering data, including goals, methods, recording techniques, and managing participant relationships.
+
+---
