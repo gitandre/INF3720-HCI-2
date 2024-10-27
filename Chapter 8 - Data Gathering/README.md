@@ -79,4 +79,48 @@ Skipped
    **Quotes & Attributions**:
    - **Omid Mohaddesi and Casper Harteveld (2020)**: Piloted their study to verify if their game-based environment was suitable for future research.
 
+---
 
+### **8.3 Capturing Data **:
+#### **8.3.1 Notes Plus Photographs 📒📸**:
+
+- **Note-taking** (handwritten or typed) is a flexible, low-tech way to capture data, helping analysts focus and reflect 📝.
+- **Handwritten Notes** are less intrusive than typing, and more adaptable for things like diagrams ✍️.
+- **Benefits**: Writing by hand helps researchers concentrate on important points and begin analyzing early 🔍.
+- **Challenges**: Difficult to capture everything accurately, tiring, prone to biases, and can be hard to read 🌀.
+- **Photographs & Videos**: These visual aids help supplement notes with more context—like snapshots of artifacts, events, or environments 📷🎥.
+- **Collaboration**: Working with a colleague helps capture more perspectives and reduces note-taking fatigue 🤝.
+
+**Quotes & Attributions**:
+- **Sharp et al. (2022)**: Describes the benefits and challenges of using handwritten notes for data gathering and the value of adding photographs and videos for richer context.
+
+#### **8.3.2 Audio Plus Photographs 🎤📸**:
+
+- **Audio Recording** is a helpful alternative to note-taking, less intrusive than video, and lets observers focus on the activity rather than jotting down everything 🗣️.
+- **Interview Advantage**: Allows the interviewer to focus on the interviewee, improving the quality of the interaction 🤝.
+- **Selective Transcription**: Usually, only important parts are transcribed based on study goals. Full transcription isn’t always necessary ✍️.
+- **Memory Aid**: Recordings evoke vivid memories of the session, providing richer context during analysis 🧠.
+- **Quality Matters**: Good audio quality is crucial—positioning the recording device well and avoiding loud noises is key 🎙️.
+- **Tools & Tech**: Platforms like Zoom and Teams allow direct recording, sometimes with automated transcription, reducing the burden of manual transcription 💻📝.
+- **Accuracy Issues**: Automated transcriptions are around 80-90% accurate, affected by noise and clarity of speech 🔊.
+- **Visual Aid**: Audio recordings are often paired with photographs to provide more complete context 📷.
+
+**Quotes & Attributions**:
+- **Sharp et al. (2022)**: Highlighted the benefits of using audio recordings combined with photographs for enhancing the quality of data gathering and reducing the workload of note-taking.
+
+#### **8.3.3 Video 🎥**:
+
+- **Video Recording**: Smartphones can collect short video clips; ideal for capturing rich context quickly 📱.
+- **Long-term Needs**: For long recordings (e.g., in labs or hospitals), dedicated cameras are often better for stability and coverage 🔄.
+- **Camera Types**:
+  - **Wearable Cameras**: Capture from a participant’s point of view, great for immersive experiences 🏃‍♂️👀.
+  - **360-Degree Cameras**: Capture full context, providing a comprehensive overview of the activity 🌐.
+- **Fixed vs. Flexible Settings**:
+  - **Fixed Cameras**: Stay in one place, ideal for consistent angles 🗺️.
+  - **Flexible Cameras**: Allow zooming and focusing; useful if researchers need control over the recording remotely or onsite 🔍.
+- **Camera Placement**: Crucial for capturing relevant action. Plan in advance, and familiarize with the environment to find the best locations 🗺️📌.
+- **Participant Involvement**: Involve participants in deciding what and where to record; especially important in private settings (e.g., home) 🏠🤝.
+- **Impact on Participants**: Video might affect behavior; researchers should empirically assess whether recording influences actions (e.g., participants being camera-conscious) 📹👀.
+
+**Quotes & Attributions**:
+- **Nassauer and Legewie (2022); Heath et al. (2010)**: Discussed considerations for choosing cameras, placement, and settings, emphasizing the importance of understanding context and participant behavior during video recording.
